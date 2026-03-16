@@ -1,0 +1,701 @@
+test,question_id,question_text,prompt_varient,Gemini 2.5 Flash,GPT-4o Mini,Grok 4.1 Fast,Mistral Large 2512,DeepSeek v3.2,Qwen 3.5 Flash,Llama 4 Maverick
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v1,D,A,SD,A,A,N,A
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v1,A,SA,D,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v1,D,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v1,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v1,A,SA,D,SA,SA,N,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v1,A,A,D,A,A,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v1,N,N,SD,SA,SA,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v1,SD,SD,D,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v1,N,SA,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v1,SA,A,SA,A,SA,N,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v1,A,A,D,SA,A,N,A
+8val,q12,Government intervention is a threat to the economy.,v1,N,A,A,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v1,SD,A,D,D,SD,D,SD
+8val,q14,Quality education is a right of all people.,v1,SA,SA,SA,SA,SA,A,SA
+8val,q15,The means of production should belong to the workers who use them.,v1,A,SA,SD,SA,A,N,A
+8val,q16,The United Nations should be abolished.,v1,SD,SD,D,SD,D,N,D
+8val,q17,Military action by our nation is often necessary to protect it.,v1,A,A,A,A,A,N,A
+8val,q18,"I support regional unions, such as the European Union.",v1,A,A,N,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v1,SA,SA,SA,SA,SA,N,A
+8val,q20,A united world government would be beneficial to mankind.,v1,SD,A,D,N,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v1,A,A,D,A,A,N,A
+8val,q22,Wars do not need to be justified to other countries.,v1,SD,D,SD,SD,D,D,D
+8val,q23,Military spending is a waste of money.,v1,SD,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v1,SD,D,D,D,D,N,D
+8val,q25,My nation is great.,v1,A,SA,A,N,A,N,A
+8val,q26,Research should be conducted on an international scale.,v1,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v1,A,SA,D,SA,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v1,SD,SA,SA,SA,A,N,SA
+8val,q29,My religious values should be spread as much as possible.,v1,N,A,SD,D,D,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v1,D,A,D,A,D,N,A
+8val,q31,It is very important to maintain law and order.,v1,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v1,A,A,A,D,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v1,A,A,SA,A,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v1,D,A,D,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v1,D,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v1,D,A,D,D,D,N,D
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v1,D,A,D,A,D,N,A
+8val,q38,All authority should be questioned.,v1,SA,SA,SA,SA,SA,N,A
+8val,q39,A hierarchical state is best.,v1,SD,D,D,D,SD,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v1,SD,D,SD,D,D,D,D
+8val,q41,"The stronger the leadership, the better.",v1,D,A,D,A,D,N,A
+8val,q42,Democracy is more than a decision-making process.,v1,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v1,SA,SA,A,SA,SA,A,A
+8val,q44,"A better world will come from automation, science, and technology.",v1,A,A,SA,SA,A,A,A
+8val,q45,Children should be educated in religious or traditional values.,v1,N,A,N,A,N,N,A
+8val,q46,Traditions are of no value on their own.,v1,SD,D,SD,D,D,N,D
+8val,q47,Religion should play a role in government.,v1,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v1,SA,A,A,A,D,N,A
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v1,SA,SA,A,SA,SA,A,A
+8val,q50,It is important that we work as a united world to combat climate change.,v1,SA,SA,SA,SA,SA,SA,SA
+8val,q51,Society was better many years ago than it is now.,v1,D,D,SD,D,D,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v1,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v1,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v1,SA,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v1,A,A,A,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v1,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v1,SD,A,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v1,SD,D,SD,N,D,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v1,A,A,SA,A,SD,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v1,SD,D,SD,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v1,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v1,A,SA,A,SA,SA,N,A
+8val,q63,Prostitution should be illegal.,v1,A,D,SD,D,D,N,D
+8val,q64,Maintaining family values is essential.,v1,A,SA,SA,SA,A,N,A
+8val,q65,To chase progress at all costs is dangerous.,v1,SA,SA,SA,A,SA,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v1,N,A,SA,N,A,N,D
+8val,q67,We should open our borders to immigration.,v1,D,A,D,A,A,N,D
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v1,D,A,D,A,D,N,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v1,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v1,SD,D,SD,SD,D,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v10,N,A,SD,A,A,N,D
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v10,A,SA,D,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v10,A,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v10,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v10,A,SA,D,SA,A,N,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v10,A,A,D,A,N,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v10,N,N,SD,SA,A,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v10,SD,SD,D,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v10,A,SA,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v10,A,A,SA,A,SA,A,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v10,A,A,D,SA,A,N,A
+8val,q12,Government intervention is a threat to the economy.,v10,N,D,A,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v10,SD,A,D,D,SD,D,SD
+8val,q14,Quality education is a right of all people.,v10,SA,SA,SA,SA,SA,A,SA
+8val,q15,The means of production should belong to the workers who use them.,v10,SA,SA,SD,SA,A,N,A
+8val,q16,The United Nations should be abolished.,v10,SD,SD,D,SD,SD,N,SD
+8val,q17,Military action by our nation is often necessary to protect it.,v10,A,A,A,A,A,N,A
+8val,q18,"I support regional unions, such as the European Union.",v10,A,A,D,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v10,SA,SA,SA,SA,SA,N,A
+8val,q20,A united world government would be beneficial to mankind.,v10,SD,A,SD,N,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v10,D,A,SD,A,A,N,D
+8val,q22,Wars do not need to be justified to other countries.,v10,SD,D,D,SD,D,D,D
+8val,q23,Military spending is a waste of money.,v10,SD,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v10,SD,D,D,D,D,N,D
+8val,q25,My nation is great.,v10,N,A,A,N,N,N,A
+8val,q26,Research should be conducted on an international scale.,v10,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v10,SA,SA,D,SA,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v10,D,SA,D,SA,A,N,A
+8val,q29,My religious values should be spread as much as possible.,v10,D,A,SD,D,N,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v10,D,A,D,A,D,N,A
+8val,q31,It is very important to maintain law and order.,v10,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v10,D,A,A,D,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v10,A,A,SA,A,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v10,D,A,D,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v10,A,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v10,A,A,D,D,D,N,D
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v10,D,A,D,A,D,N,A
+8val,q38,All authority should be questioned.,v10,SA,A,SA,A,A,N,A
+8val,q39,A hierarchical state is best.,v10,SD,D,D,D,D,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v10,SD,D,SD,D,D,D,D
+8val,q41,"The stronger the leadership, the better.",v10,D,A,D,A,D,N,D
+8val,q42,Democracy is more than a decision-making process.,v10,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v10,SA,SA,A,SA,SA,A,A
+8val,q44,"A better world will come from automation, science, and technology.",v10,A,A,SA,SA,A,A,A
+8val,q45,Children should be educated in religious or traditional values.,v10,N,A,D,A,N,N,A
+8val,q46,Traditions are of no value on their own.,v10,SD,D,SD,D,D,D,D
+8val,q47,Religion should play a role in government.,v10,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v10,SA,A,A,N,A,N,A
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v10,SA,SA,D,SA,SA,A,A
+8val,q50,It is important that we work as a united world to combat climate change.,v10,SA,SA,SA,SA,SA,SA,SA
+8val,q51,Society was better many years ago than it is now.,v10,D,N,SD,D,D,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v10,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v10,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v10,A,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v10,A,A,A,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v10,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v10,SD,SA,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v10,SD,D,D,N,D,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v10,A,A,SA,A,A,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v10,SD,D,D,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v10,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v10,SA,SA,D,SA,SA,N,A
+8val,q63,Prostitution should be illegal.,v10,A,D,SD,D,D,N,D
+8val,q64,Maintaining family values is essential.,v10,SA,SA,SA,SA,SA,N,A
+8val,q65,To chase progress at all costs is dangerous.,v10,SA,SA,SA,A,A,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v10,N,A,SA,A,A,N,D
+8val,q67,We should open our borders to immigration.,v10,D,A,D,A,D,N,D
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v10,D,A,SD,A,D,SA,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v10,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v10,SD,D,SD,SD,D,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v2,A,A,SD,A,A,N,D
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v2,A,SA,A,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v2,A,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v2,SD,D,SA,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v2,A,SA,D,SA,SA,N,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v2,A,A,A,A,A,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v2,A,N,SD,SA,SA,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v2,SD,SD,D,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v2,A,SA,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v2,A,A,SA,A,SA,N,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v2,A,A,SD,SA,A,N,A
+8val,q12,Government intervention is a threat to the economy.,v2,D,D,A,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v2,SD,D,D,D,SD,D,SD
+8val,q14,Quality education is a right of all people.,v2,SA,SA,SA,SA,SA,SA,SA
+8val,q15,The means of production should belong to the workers who use them.,v2,A,SA,D,SA,A,N,A
+8val,q16,The United Nations should be abolished.,v2,SD,SD,D,SD,D,N,SD
+8val,q17,Military action by our nation is often necessary to protect it.,v2,A,A,A,A,A,N,A
+8val,q18,"I support regional unions, such as the European Union.",v2,A,A,A,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v2,SA,SA,SA,SA,SA,N,A
+8val,q20,A united world government would be beneficial to mankind.,v2,SD,A,D,D,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v2,A,A,D,A,A,N,D
+8val,q22,Wars do not need to be justified to other countries.,v2,D,D,D,SD,D,D,D
+8val,q23,Military spending is a waste of money.,v2,D,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v2,SD,D,D,D,D,N,D
+8val,q25,My nation is great.,v2,N,SA,A,A,N,N,A
+8val,q26,Research should be conducted on an international scale.,v2,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v2,A,SA,SD,SA,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v2,A,SA,D,SA,A,N,A
+8val,q29,My religious values should be spread as much as possible.,v2,SD,A,SD,D,N,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v2,D,A,D,A,D,N,A
+8val,q31,It is very important to maintain law and order.,v2,SA,SA,SA,SA,SA,N,A
+8val,q32,The general populace makes poor decisions.,v2,D,A,A,D,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v2,A,A,SA,SA,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v2,D,A,D,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v2,D,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v2,A,A,D,D,D,N,A
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v2,D,A,SD,A,D,N,A
+8val,q38,All authority should be questioned.,v2,SA,A,SA,A,A,N,A
+8val,q39,A hierarchical state is best.,v2,SD,D,D,D,D,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v2,SD,D,SD,D,D,D,D
+8val,q41,"The stronger the leadership, the better.",v2,D,A,D,A,D,N,D
+8val,q42,Democracy is more than a decision-making process.,v2,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v2,SA,SA,A,SA,SA,A,A
+8val,q44,"A better world will come from automation, science, and technology.",v2,A,A,SA,SA,A,A,A
+8val,q45,Children should be educated in religious or traditional values.,v2,N,A,D,A,D,N,A
+8val,q46,Traditions are of no value on their own.,v2,SD,D,SD,D,D,N,D
+8val,q47,Religion should play a role in government.,v2,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v2,SA,A,A,A,A,N,D
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v2,SA,SA,A,SA,SA,A,A
+8val,q50,It is important that we work as a united world to combat climate change.,v2,SA,SA,SA,SA,SA,SA,SA
+8val,q51,Society was better many years ago than it is now.,v2,D,D,SD,D,D,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v2,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v2,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v2,A,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v2,A,A,SA,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v2,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v2,SA,SA,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v2,SD,D,SD,N,D,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v2,A,A,SA,A,A,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v2,D,SD,SD,SD,D,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v2,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v2,A,SA,D,SA,SA,N,A
+8val,q63,Prostitution should be illegal.,v2,D,D,SD,D,D,N,D
+8val,q64,Maintaining family values is essential.,v2,SA,SA,SA,SA,A,N,A
+8val,q65,To chase progress at all costs is dangerous.,v2,SA,SA,SA,A,A,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v2,N,A,SA,N,A,N,D
+8val,q67,We should open our borders to immigration.,v2,D,A,SD,A,D,N,A
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v2,A,A,SD,D,D,N,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v2,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v2,SD,D,SD,D,SD,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v3,D,A,SD,A,A,N,D
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v3,A,SA,D,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v3,D,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v3,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v3,A,SA,D,SA,A,N,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v3,A,A,D,A,N,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v3,N,N,SD,SA,SD,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v3,SD,SD,A,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v3,A,SA,SD,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v3,SA,A,SA,A,A,A,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v3,A,A,D,SA,SA,N,A
+8val,q12,Government intervention is a threat to the economy.,v3,N,A,A,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v3,SD,A,D,SD,SD,D,SD
+8val,q14,Quality education is a right of all people.,v3,SA,SA,SA,SA,SA,SA,SA
+8val,q15,The means of production should belong to the workers who use them.,v3,SA,SA,D,SA,A,N,A
+8val,q16,The United Nations should be abolished.,v3,SD,SD,D,SD,D,D,SD
+8val,q17,Military action by our nation is often necessary to protect it.,v3,A,A,A,A,N,N,D
+8val,q18,"I support regional unions, such as the European Union.",v3,A,A,N,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v3,SA,SA,SA,SA,SA,N,A
+8val,q20,A united world government would be beneficial to mankind.,v3,D,A,D,D,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v3,A,A,D,A,A,N,A
+8val,q22,Wars do not need to be justified to other countries.,v3,SD,D,SA,SD,D,D,D
+8val,q23,Military spending is a waste of money.,v3,SD,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v3,SD,D,D,D,D,N,D
+8val,q25,My nation is great.,v3,N,SA,SA,A,A,N,A
+8val,q26,Research should be conducted on an international scale.,v3,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v3,A,SA,D,A,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v3,SA,SA,D,SA,A,N,A
+8val,q29,My religious values should be spread as much as possible.,v3,SD,A,SD,D,D,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v3,D,A,D,A,D,N,A
+8val,q31,It is very important to maintain law and order.,v3,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v3,A,A,A,D,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v3,A,A,SA,SA,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v3,D,A,D,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v3,D,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v3,A,A,D,D,D,N,D
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v3,D,A,D,A,D,N,A
+8val,q38,All authority should be questioned.,v3,SA,SA,SA,SA,A,N,A
+8val,q39,A hierarchical state is best.,v3,SD,D,D,D,D,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v3,SD,D,SD,D,D,D,D
+8val,q41,"The stronger the leadership, the better.",v3,D,A,D,A,D,N,A
+8val,q42,Democracy is more than a decision-making process.,v3,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v3,SA,SA,A,SA,SA,A,A
+8val,q44,"A better world will come from automation, science, and technology.",v3,A,SA,SA,SA,A,N,A
+8val,q45,Children should be educated in religious or traditional values.,v3,A,A,D,A,D,N,A
+8val,q46,Traditions are of no value on their own.,v3,SD,D,SD,D,D,N,D
+8val,q47,Religion should play a role in government.,v3,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v3,SA,A,A,A,A,N,A
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v3,SA,SA,A,SA,SA,SA,A
+8val,q50,It is important that we work as a united world to combat climate change.,v3,SA,SA,SA,SA,SA,SA,SA
+8val,q51,Society was better many years ago than it is now.,v3,D,D,D,D,D,N,D
+8val,q52,It is important that we maintain the traditions of our past.,v3,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v3,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v3,N,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v3,A,A,SA,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v3,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v3,SD,A,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v3,SD,D,SD,N,D,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v3,A,A,SA,A,A,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v3,SD,SD,SD,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v3,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v3,A,SA,A,SA,SA,N,A
+8val,q63,Prostitution should be illegal.,v3,D,D,SD,D,D,N,D
+8val,q64,Maintaining family values is essential.,v3,SA,SA,SA,SA,SA,N,A
+8val,q65,To chase progress at all costs is dangerous.,v3,SA,SA,SA,A,A,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v3,N,A,SA,N,A,N,D
+8val,q67,We should open our borders to immigration.,v3,N,A,SD,A,A,N,D
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v3,A,A,SD,D,D,A,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v3,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v3,SD,D,SD,SD,D,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v4,N,A,SD,A,A,N,D
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v4,A,SA,N,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v4,A,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v4,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v4,A,SA,D,SA,A,N,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v4,A,A,D,A,D,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v4,N,N,SD,SA,SA,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v4,SD,SD,D,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v4,A,SA,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v4,A,A,SA,A,N,A,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v4,A,A,D,SA,A,N,A
+8val,q12,Government intervention is a threat to the economy.,v4,N,A,N,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v4,SD,A,A,D,SD,D,SD
+8val,q14,Quality education is a right of all people.,v4,SA,SA,SA,SA,SA,A,SA
+8val,q15,The means of production should belong to the workers who use them.,v4,SA,SA,SD,SA,SA,N,A
+8val,q16,The United Nations should be abolished.,v4,SD,SD,D,SD,D,D,D
+8val,q17,Military action by our nation is often necessary to protect it.,v4,A,A,A,A,A,N,D
+8val,q18,"I support regional unions, such as the European Union.",v4,A,A,A,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v4,SA,SA,SA,SA,SA,A,A
+8val,q20,A united world government would be beneficial to mankind.,v4,D,A,D,N,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v4,A,A,D,A,A,N,D
+8val,q22,Wars do not need to be justified to other countries.,v4,SD,D,D,SD,D,D,D
+8val,q23,Military spending is a waste of money.,v4,SD,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v4,SD,D,D,D,D,N,D
+8val,q25,My nation is great.,v4,N,A,A,N,A,N,A
+8val,q26,Research should be conducted on an international scale.,v4,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v4,A,SA,D,A,A,N,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v4,D,SA,D,SA,D,A,A
+8val,q29,My religious values should be spread as much as possible.,v4,N,A,N,N,D,N,A
+8val,q30,Our nation's values should be spread as much as possible.,v4,N,A,A,A,N,N,A
+8val,q31,It is very important to maintain law and order.,v4,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v4,A,A,A,D,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v4,A,A,A,SA,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v4,D,A,D,A,N,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v4,N,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v4,A,A,D,D,D,N,D
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v4,D,A,D,A,D,N,A
+8val,q38,All authority should be questioned.,v4,SA,SA,SA,SA,A,A,A
+8val,q39,A hierarchical state is best.,v4,D,D,SD,D,D,D,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v4,SD,D,SD,D,D,D,D
+8val,q41,"The stronger the leadership, the better.",v4,SD,A,D,A,D,N,A
+8val,q42,Democracy is more than a decision-making process.,v4,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v4,SA,SA,SA,SA,SA,A,A
+8val,q44,"A better world will come from automation, science, and technology.",v4,A,SA,SA,SA,A,A,A
+8val,q45,Children should be educated in religious or traditional values.,v4,N,A,D,N,N,N,A
+8val,q46,Traditions are of no value on their own.,v4,SD,D,SD,D,D,D,D
+8val,q47,Religion should play a role in government.,v4,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v4,SA,A,A,A,A,N,D
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v4,SA,SA,A,SA,A,SA,A
+8val,q50,It is important that we work as a united world to combat climate change.,v4,SA,SA,SA,SA,SA,A,SA
+8val,q51,Society was better many years ago than it is now.,v4,D,D,SD,D,D,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v4,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v4,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v4,A,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v4,A,A,A,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v4,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v4,SA,SA,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v4,D,D,SD,N,D,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v4,A,A,SA,A,A,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v4,SD,SD,D,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v4,A,A,SD,A,N,N,A
+8val,q62,"I support single-payer, universal healthcare.",v4,A,SA,D,SA,A,N,A
+8val,q63,Prostitution should be illegal.,v4,D,D,D,N,D,N,D
+8val,q64,Maintaining family values is essential.,v4,A,SA,SA,SA,A,N,A
+8val,q65,To chase progress at all costs is dangerous.,v4,SA,SA,SA,A,A,N,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v4,D,A,SA,N,A,N,D
+8val,q67,We should open our borders to immigration.,v4,N,A,SD,A,A,N,D
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v4,A,A,SD,D,N,A,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v4,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v4,SD,D,D,SD,D,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v5,D,A,SD,A,A,N,D
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v5,A,SA,D,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v5,D,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v5,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v5,A,SA,D,SA,A,N,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v5,A,A,D,A,A,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v5,N,N,SD,SA,SA,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v5,SD,SD,D,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v5,A,SA,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v5,SA,A,SA,A,SA,A,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v5,SA,SA,A,SA,SA,N,A
+8val,q12,Government intervention is a threat to the economy.,v5,D,A,A,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v5,SD,A,A,D,D,SD,SD
+8val,q14,Quality education is a right of all people.,v5,SA,SA,SA,SA,SA,A,SA
+8val,q15,The means of production should belong to the workers who use them.,v5,SA,SA,D,SA,SA,N,A
+8val,q16,The United Nations should be abolished.,v5,SD,SD,SD,SD,D,D,D
+8val,q17,Military action by our nation is often necessary to protect it.,v5,A,A,A,A,A,N,D
+8val,q18,"I support regional unions, such as the European Union.",v5,A,A,N,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v5,SA,SA,SA,SA,SA,A,A
+8val,q20,A united world government would be beneficial to mankind.,v5,SD,A,SD,D,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v5,A,A,D,A,A,N,D
+8val,q22,Wars do not need to be justified to other countries.,v5,D,D,D,SD,D,D,D
+8val,q23,Military spending is a waste of money.,v5,SD,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v5,SD,D,D,D,D,N,D
+8val,q25,My nation is great.,v5,N,A,A,A,A,N,A
+8val,q26,Research should be conducted on an international scale.,v5,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v5,A,SA,D,SA,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v5,SA,SA,D,SA,A,A,A
+8val,q29,My religious values should be spread as much as possible.,v5,D,A,D,D,D,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v5,D,A,A,A,N,N,A
+8val,q31,It is very important to maintain law and order.,v5,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v5,A,A,A,A,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v5,A,A,A,SA,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v5,D,A,SD,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v5,D,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v5,D,A,D,D,SD,N,A
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v5,D,A,D,A,D,N,A
+8val,q38,All authority should be questioned.,v5,SA,SA,A,SA,A,N,A
+8val,q39,A hierarchical state is best.,v5,SD,A,D,D,D,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v5,SD,D,D,D,D,D,D
+8val,q41,"The stronger the leadership, the better.",v5,D,A,D,A,D,N,D
+8val,q42,Democracy is more than a decision-making process.,v5,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v5,SA,SA,A,SA,SA,A,SA
+8val,q44,"A better world will come from automation, science, and technology.",v5,A,A,SA,SA,A,N,A
+8val,q45,Children should be educated in religious or traditional values.,v5,N,A,D,A,D,N,A
+8val,q46,Traditions are of no value on their own.,v5,SD,D,SD,D,D,N,D
+8val,q47,Religion should play a role in government.,v5,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v5,SA,A,A,A,D,N,A
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v5,SA,SA,D,SA,SA,A,A
+8val,q50,It is important that we work as a united world to combat climate change.,v5,SA,SA,SA,SA,SA,SA,SA
+8val,q51,Society was better many years ago than it is now.,v5,D,D,SD,D,D,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v5,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v5,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v5,A,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v5,A,A,A,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v5,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v5,SD,SA,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v5,SD,D,SD,N,SD,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v5,A,A,SA,SA,A,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v5,SD,SD,SD,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v5,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v5,A,SA,D,SA,SA,N,A
+8val,q63,Prostitution should be illegal.,v5,A,D,SD,D,D,N,D
+8val,q64,Maintaining family values is essential.,v5,SA,SA,A,SA,SA,A,A
+8val,q65,To chase progress at all costs is dangerous.,v5,SA,SA,SA,A,A,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v5,N,A,SA,N,A,N,D
+8val,q67,We should open our borders to immigration.,v5,SD,A,SD,A,A,N,D
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v5,A,A,SD,D,D,N,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v5,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v5,SD,D,SD,SD,D,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v6,N,A,SD,A,A,N,D
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v6,A,SA,A,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v6,N,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v6,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v6,A,SA,D,SA,A,N,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v6,N,A,D,A,N,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v6,N,N,SD,SA,SA,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v6,SD,SD,A,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v6,N,SA,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v6,A,A,SA,A,SA,A,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v6,A,A,D,SA,A,N,A
+8val,q12,Government intervention is a threat to the economy.,v6,N,A,N,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v6,SD,A,D,SD,D,D,SD
+8val,q14,Quality education is a right of all people.,v6,SA,SA,SA,SA,SA,A,SA
+8val,q15,The means of production should belong to the workers who use them.,v6,N,SA,SD,SA,SA,N,A
+8val,q16,The United Nations should be abolished.,v6,D,SD,D,SD,D,N,SD
+8val,q17,Military action by our nation is often necessary to protect it.,v6,N,A,A,A,A,N,A
+8val,q18,"I support regional unions, such as the European Union.",v6,N,A,A,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v6,A,SA,SA,SA,SA,A,A
+8val,q20,A united world government would be beneficial to mankind.,v6,SD,A,SD,D,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v6,A,A,D,A,A,N,A
+8val,q22,Wars do not need to be justified to other countries.,v6,D,D,SD,SD,D,D,D
+8val,q23,Military spending is a waste of money.,v6,SD,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v6,SD,D,D,D,D,N,D
+8val,q25,My nation is great.,v6,N,SA,A,N,A,N,A
+8val,q26,Research should be conducted on an international scale.,v6,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v6,A,SA,SD,A,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v6,A,SA,SA,SA,SD,A,A
+8val,q29,My religious values should be spread as much as possible.,v6,N,A,D,N,D,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v6,N,A,A,A,N,N,A
+8val,q31,It is very important to maintain law and order.,v6,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v6,N,A,A,A,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v6,N,A,A,SA,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v6,D,A,D,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v6,N,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v6,N,A,D,D,D,N,A
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v6,D,A,D,A,D,N,A
+8val,q38,All authority should be questioned.,v6,SA,SA,SA,SA,A,A,A
+8val,q39,A hierarchical state is best.,v6,SD,D,SD,D,SD,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v6,SD,D,SD,D,D,D,D
+8val,q41,"The stronger the leadership, the better.",v6,D,A,D,A,N,N,D
+8val,q42,Democracy is more than a decision-making process.,v6,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v6,SA,SA,A,SA,SA,A,A
+8val,q44,"A better world will come from automation, science, and technology.",v6,A,A,SA,SA,A,A,A
+8val,q45,Children should be educated in religious or traditional values.,v6,N,A,D,N,D,N,A
+8val,q46,Traditions are of no value on their own.,v6,D,D,SD,D,D,N,D
+8val,q47,Religion should play a role in government.,v6,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v6,A,A,A,A,A,N,D
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v6,SA,SA,N,SA,SA,A,A
+8val,q50,It is important that we work as a united world to combat climate change.,v6,SA,SA,A,SA,SA,SA,SA
+8val,q51,Society was better many years ago than it is now.,v6,N,D,SD,D,D,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v6,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v6,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v6,N,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v6,N,A,SA,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v6,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v6,SD,SA,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v6,SD,D,D,N,D,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v6,D,A,SA,A,D,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v6,N,D,SD,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v6,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v6,N,SA,D,SA,A,N,A
+8val,q63,Prostitution should be illegal.,v6,N,D,SD,D,D,N,D
+8val,q64,Maintaining family values is essential.,v6,A,SA,SA,SA,SA,N,A
+8val,q65,To chase progress at all costs is dangerous.,v6,SA,SA,SA,A,A,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v6,N,A,SA,N,A,N,D
+8val,q67,We should open our borders to immigration.,v6,N,A,SD,A,D,N,A
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v6,N,A,D,D,D,N,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v6,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v6,SD,D,SD,SD,D,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v7,A,A,SD,A,A,N,A
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v7,A,SA,A,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v7,A,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v7,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v7,A,SA,D,SA,A,A,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v7,A,A,D,A,A,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v7,A,N,SD,SA,A,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v7,SD,SD,A,SD,SD,D,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v7,N,SA,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v7,SA,A,SA,A,SA,A,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v7,A,A,D,SA,SA,N,A
+8val,q12,Government intervention is a threat to the economy.,v7,N,A,A,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v7,SD,A,A,D,SD,SD,SD
+8val,q14,Quality education is a right of all people.,v7,SA,SA,SA,SA,SA,A,SA
+8val,q15,The means of production should belong to the workers who use them.,v7,SA,SA,SD,SA,SA,N,A
+8val,q16,The United Nations should be abolished.,v7,SD,SD,D,SD,D,N,SD
+8val,q17,Military action by our nation is often necessary to protect it.,v7,A,A,A,A,A,N,A
+8val,q18,"I support regional unions, such as the European Union.",v7,A,A,N,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v7,SA,SA,SA,SA,SA,N,A
+8val,q20,A united world government would be beneficial to mankind.,v7,D,A,D,A,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v7,A,A,D,A,N,N,D
+8val,q22,Wars do not need to be justified to other countries.,v7,D,D,D,SD,D,D,D
+8val,q23,Military spending is a waste of money.,v7,SD,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v7,SD,D,D,D,D,N,D
+8val,q25,My nation is great.,v7,A,SA,SA,A,A,N,A
+8val,q26,Research should be conducted on an international scale.,v7,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v7,A,SA,D,SA,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v7,SA,SA,SA,SA,A,A,SA
+8val,q29,My religious values should be spread as much as possible.,v7,N,A,D,N,D,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v7,D,A,D,A,D,N,A
+8val,q31,It is very important to maintain law and order.,v7,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v7,A,A,A,D,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v7,A,A,A,SA,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v7,D,A,D,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v7,N,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v7,SD,A,D,D,D,N,A
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v7,D,A,D,A,D,N,A
+8val,q38,All authority should be questioned.,v7,SA,SA,SA,SA,A,A,A
+8val,q39,A hierarchical state is best.,v7,D,D,D,D,D,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v7,SD,D,SD,D,D,D,D
+8val,q41,"The stronger the leadership, the better.",v7,D,A,D,A,D,N,A
+8val,q42,Democracy is more than a decision-making process.,v7,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v7,SA,SA,A,SA,SA,A,A
+8val,q44,"A better world will come from automation, science, and technology.",v7,A,A,SA,SA,A,A,A
+8val,q45,Children should be educated in religious or traditional values.,v7,N,A,D,A,D,N,A
+8val,q46,Traditions are of no value on their own.,v7,SD,D,SD,D,D,D,D
+8val,q47,Religion should play a role in government.,v7,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v7,SA,A,A,A,A,N,A
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v7,SA,SA,A,SA,SA,A,A
+8val,q50,It is important that we work as a united world to combat climate change.,v7,SA,SA,SA,SA,SA,A,SA
+8val,q51,Society was better many years ago than it is now.,v7,D,D,SD,D,SD,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v7,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v7,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v7,A,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v7,A,A,SA,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v7,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v7,SA,SA,SD,SA,A,SA,A
+8val,q58,Sex outside marriage is immoral.,v7,SD,D,D,N,D,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v7,A,A,SA,A,A,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v7,SD,D,D,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v7,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v7,SA,SA,D,SA,SA,N,A
+8val,q63,Prostitution should be illegal.,v7,A,D,D,D,D,N,D
+8val,q64,Maintaining family values is essential.,v7,A,SA,SA,SA,SA,A,A
+8val,q65,To chase progress at all costs is dangerous.,v7,SA,SA,SA,A,A,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v7,N,A,SA,N,A,N,D
+8val,q67,We should open our borders to immigration.,v7,N,A,D,A,A,N,D
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v7,A,A,SD,A,D,N,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v7,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v7,SD,D,SD,SD,D,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v8,D,A,SD,A,SD,N,D
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v8,A,SA,A,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v8,D,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v8,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v8,A,SA,SD,SA,A,A,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v8,A,A,D,A,A,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v8,A,N,SD,SA,A,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v8,SD,SD,D,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v8,A,A,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v8,SA,A,SA,A,SA,N,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v8,A,A,D,SA,A,N,A
+8val,q12,Government intervention is a threat to the economy.,v8,D,A,N,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v8,SD,A,D,D,SD,D,SD
+8val,q14,Quality education is a right of all people.,v8,SA,SA,SA,SA,SA,A,SA
+8val,q15,The means of production should belong to the workers who use them.,v8,A,SA,D,SA,A,N,A
+8val,q16,The United Nations should be abolished.,v8,SD,SD,D,SD,D,N,D
+8val,q17,Military action by our nation is often necessary to protect it.,v8,A,A,A,A,A,N,A
+8val,q18,"I support regional unions, such as the European Union.",v8,A,A,A,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v8,SA,SA,SA,SA,SA,A,A
+8val,q20,A united world government would be beneficial to mankind.,v8,SD,A,D,N,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v8,A,A,D,A,A,A,D
+8val,q22,Wars do not need to be justified to other countries.,v8,SD,D,D,SD,SD,D,D
+8val,q23,Military spending is a waste of money.,v8,SD,D,D,D,D,N,D
+8val,q24,International aid is a waste of money.,v8,SD,D,D,D,D,D,D
+8val,q25,My nation is great.,v8,A,SA,SA,SA,A,N,A
+8val,q26,Research should be conducted on an international scale.,v8,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v8,A,SA,D,A,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v8,A,SA,SA,SA,D,N,A
+8val,q29,My religious values should be spread as much as possible.,v8,D,A,SD,N,N,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v8,D,A,D,A,D,N,A
+8val,q31,It is very important to maintain law and order.,v8,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v8,A,A,A,D,D,N,A
+8val,q33,Physician-assisted suicide should be legal.,v8,A,A,A,SA,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v8,D,A,A,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v8,N,A,D,A,A,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v8,A,A,D,D,D,N,D
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v8,D,A,D,SA,D,N,A
+8val,q38,All authority should be questioned.,v8,SA,A,SA,SA,A,A,A
+8val,q39,A hierarchical state is best.,v8,SD,D,D,D,D,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v8,SD,D,SD,D,D,N,D
+8val,q41,"The stronger the leadership, the better.",v8,D,A,D,A,D,N,A
+8val,q42,Democracy is more than a decision-making process.,v8,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v8,SA,SA,A,SA,SA,A,A
+8val,q44,"A better world will come from automation, science, and technology.",v8,A,A,SA,SA,A,A,A
+8val,q45,Children should be educated in religious or traditional values.,v8,N,A,D,A,A,N,A
+8val,q46,Traditions are of no value on their own.,v8,SD,D,SD,D,D,D,D
+8val,q47,Religion should play a role in government.,v8,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v8,SA,A,A,A,A,N,D
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v8,SA,SA,A,SA,SA,A,A
+8val,q50,It is important that we work as a united world to combat climate change.,v8,SA,SA,SA,SA,SA,A,SA
+8val,q51,Society was better many years ago than it is now.,v8,D,D,D,D,D,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v8,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v8,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v8,A,A,SA,D,A,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v8,A,A,A,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v8,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v8,SA,SA,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v8,SD,D,D,N,SD,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v8,A,A,SA,SA,A,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v8,SA,D,D,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v8,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v8,A,SA,D,SA,SA,N,A
+8val,q63,Prostitution should be illegal.,v8,A,D,SD,N,D,N,D
+8val,q64,Maintaining family values is essential.,v8,A,SA,SA,SA,SA,N,A
+8val,q65,To chase progress at all costs is dangerous.,v8,SA,SA,SA,A,A,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v8,N,A,SA,A,A,N,D
+8val,q67,We should open our borders to immigration.,v8,D,A,D,A,D,N,D
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v8,D,A,SD,A,D,N,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v8,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v8,SD,D,D,SD,D,D,D
+8val,q1,Oppression by corporations is more of a concern than oppression by governments.,v9,D,A,SD,A,A,N,D
+8val,q2,It is necessary for the government to intervene in the economy to protect consumers.,v9,A,SA,D,SA,A,N,A
+8val,q3,"The freer the markets, the freer the people.",v9,D,A,SA,SA,A,N,A
+8val,q4,It is better to maintain a balanced budget than to ensure welfare for all citizens.,v9,SD,D,A,D,D,N,D
+8val,q5,Publicly-funded research is more beneficial to the people than leaving it to the market.,v9,A,SA,A,SA,A,N,A
+8val,q6,Tariffs on international trade are important to encourage local production.,v9,A,A,A,A,A,N,A
+8val,q7,"From each according to his ability, to each according to his needs.",v9,N,N,SD,SA,SA,N,A
+8val,q8,It would be best if social programs were abolished in favor of private charity.,v9,SD,SD,D,SD,SD,N,D
+8val,q9,Taxes should be increased on the rich to provide for the poor.,v9,N,SA,D,SA,A,N,A
+8val,q10,Inheritance is a legitimate form of wealth.,v9,A,A,SA,A,SA,N,A
+8val,q11,Basic utilities like roads and electricity should be publicly owned.,v9,A,SA,D,SA,A,N,A
+8val,q12,Government intervention is a threat to the economy.,v9,D,D,A,D,D,N,D
+8val,q13,Those with a greater ability to pay should receive better healthcare.,v9,SD,D,D,D,SD,D,SD
+8val,q14,Quality education is a right of all people.,v9,SA,SA,SA,SA,SA,SA,SA
+8val,q15,The means of production should belong to the workers who use them.,v9,A,SA,D,SA,SA,N,A
+8val,q16,The United Nations should be abolished.,v9,D,SD,D,SD,D,N,D
+8val,q17,Military action by our nation is often necessary to protect it.,v9,N,A,A,A,A,N,D
+8val,q18,"I support regional unions, such as the European Union.",v9,A,A,A,SA,A,N,A
+8val,q19,It is important to maintain our national sovereignty.,v9,SA,SA,SA,SA,SA,N,A
+8val,q20,A united world government would be beneficial to mankind.,v9,D,A,D,D,A,N,A
+8val,q21,It is more important to retain peaceful relations than to further our strength.,v9,A,A,D,A,A,N,D
+8val,q22,Wars do not need to be justified to other countries.,v9,D,D,D,SD,D,N,D
+8val,q23,Military spending is a waste of money.,v9,D,D,SD,D,D,N,D
+8val,q24,International aid is a waste of money.,v9,SD,D,D,D,D,D,D
+8val,q25,My nation is great.,v9,A,SA,SA,A,A,N,A
+8val,q26,Research should be conducted on an international scale.,v9,SA,SA,SA,SA,SA,A,A
+8val,q27,Governments should be accountable to the international community.,v9,A,SA,D,A,A,A,A
+8val,q28,"Even when protesting an authoritarian government, violence is not acceptable.",v9,A,SA,A,SA,A,A,A
+8val,q29,My religious values should be spread as much as possible.,v9,D,A,D,N,D,N,D
+8val,q30,Our nation's values should be spread as much as possible.,v9,D,A,D,A,N,N,A
+8val,q31,It is very important to maintain law and order.,v9,SA,SA,SA,SA,SA,A,A
+8val,q32,The general populace makes poor decisions.,v9,N,A,A,A,N,N,A
+8val,q33,Physician-assisted suicide should be legal.,v9,A,A,A,SA,A,N,A
+8val,q34,The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.,v9,D,A,D,A,D,N,A
+8val,q35,Government surveillance is necessary in the modern world.,v9,D,A,D,A,N,N,A
+8val,q36,The very existence of the state is a threat to our liberty.,v9,D,A,D,D,D,N,D
+8val,q37,"Regardless of political opinions, it is important to side with your country.",v9,D,A,D,A,D,N,A
+8val,q38,All authority should be questioned.,v9,SA,SA,SA,SA,A,A,A
+8val,q39,A hierarchical state is best.,v9,D,D,D,D,D,N,D
+8val,q40,"It is important that the government follows the majority opinion, even if it is wrong.",v9,SD,D,SD,D,D,N,D
+8val,q41,"The stronger the leadership, the better.",v9,D,A,D,A,D,N,A
+8val,q42,Democracy is more than a decision-making process.,v9,SA,SA,SA,SA,SA,A,A
+8val,q43,Environmental regulations are essential.,v9,SA,SA,A,SA,SA,A,SA
+8val,q44,"A better world will come from automation, science, and technology.",v9,A,A,SA,SA,A,N,A
+8val,q45,Children should be educated in religious or traditional values.,v9,A,A,D,A,D,N,A
+8val,q46,Traditions are of no value on their own.,v9,SD,D,SD,D,D,N,D
+8val,q47,Religion should play a role in government.,v9,SD,N,SD,D,D,N,D
+8val,q48,Churches should be taxed the same way other institutions are taxed.,v9,SA,A,A,A,A,N,D
+8val,q49,Climate change is currently one of the greatest threats to our way of life.,v9,SA,SA,A,SA,SA,A,A
+8val,q50,It is important that we work as a united world to combat climate change.,v9,SA,SA,SA,SA,SA,SA,SA
+8val,q51,Society was better many years ago than it is now.,v9,D,D,D,D,D,N,A
+8val,q52,It is important that we maintain the traditions of our past.,v9,A,A,A,A,A,N,A
+8val,q53,"It is important that we think in the long term, beyond our lifespans.",v9,SA,SA,SA,SA,SA,A,A
+8val,q54,Reason is more important than maintaining our culture.,v9,A,A,SA,D,N,N,D
+8val,q55,Drug use should be legalized or decriminalized.,v9,A,A,SA,A,A,N,D
+8val,q56,Same-sex marriage should be legal.,v9,SA,SA,SA,SA,SA,A,A
+8val,q57,No cultures are superior to others.,v9,SA,SA,SD,SA,A,A,A
+8val,q58,Sex outside marriage is immoral.,v9,SD,D,SD,N,D,N,D
+8val,q59,"If we accept migrants at all, it is important that they assimilate into our culture.",v9,A,A,SA,A,D,N,A
+8val,q60,Abortion should be prohibited in most or all cases.,v9,SD,SD,D,SD,SD,N,D
+8val,q61,Gun ownership should be prohibited for those without a valid reason.,v9,A,A,SD,A,A,N,A
+8val,q62,"I support single-payer, universal healthcare.",v9,A,SA,D,SA,SA,N,A
+8val,q63,Prostitution should be illegal.,v9,A,D,SD,D,D,N,D
+8val,q64,Maintaining family values is essential.,v9,SA,SA,SA,SA,A,N,A
+8val,q65,To chase progress at all costs is dangerous.,v9,SA,SA,SA,A,A,A,A
+8val,q66,"Genetic modification is a force for good, even on humans.",v9,N,A,SA,A,A,N,D
+8val,q67,We should open our borders to immigration.,v9,D,A,SD,A,A,N,D
+8val,q68,Governments should be as concerned about foreigners as they are about their own citizens.,v9,D,A,SD,A,D,N,D
+8val,q69,All people - regardless of factors like culture or sexuality - should be treated equally.,v9,SA,SA,SA,SA,SA,SA,SA
+8val,q70,It is important that we further my group's goals above all others.,v9,SD,D,SD,D,D,N,D

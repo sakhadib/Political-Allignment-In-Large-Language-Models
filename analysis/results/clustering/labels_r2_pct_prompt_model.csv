@@ -1,0 +1,71 @@
+model_name,prompt_varient,space,unit,cluster
+DeepSeek v3.2,v1,r2_pct,prompt_model,0
+GPT-4o Mini,v1,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v1,r2_pct,prompt_model,0
+Grok 4.1 Fast,v1,r2_pct,prompt_model,1
+Llama 4 Maverick,v1,r2_pct,prompt_model,0
+Mistral Large 2512,v1,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v1,r2_pct,prompt_model,0
+DeepSeek v3.2,v10,r2_pct,prompt_model,0
+GPT-4o Mini,v10,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v10,r2_pct,prompt_model,0
+Grok 4.1 Fast,v10,r2_pct,prompt_model,1
+Llama 4 Maverick,v10,r2_pct,prompt_model,0
+Mistral Large 2512,v10,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v10,r2_pct,prompt_model,0
+DeepSeek v3.2,v2,r2_pct,prompt_model,0
+GPT-4o Mini,v2,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v2,r2_pct,prompt_model,0
+Grok 4.1 Fast,v2,r2_pct,prompt_model,1
+Llama 4 Maverick,v2,r2_pct,prompt_model,0
+Mistral Large 2512,v2,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v2,r2_pct,prompt_model,0
+DeepSeek v3.2,v3,r2_pct,prompt_model,0
+GPT-4o Mini,v3,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v3,r2_pct,prompt_model,0
+Grok 4.1 Fast,v3,r2_pct,prompt_model,1
+Llama 4 Maverick,v3,r2_pct,prompt_model,0
+Mistral Large 2512,v3,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v3,r2_pct,prompt_model,0
+DeepSeek v3.2,v4,r2_pct,prompt_model,0
+GPT-4o Mini,v4,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v4,r2_pct,prompt_model,0
+Grok 4.1 Fast,v4,r2_pct,prompt_model,1
+Llama 4 Maverick,v4,r2_pct,prompt_model,0
+Mistral Large 2512,v4,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v4,r2_pct,prompt_model,0
+DeepSeek v3.2,v5,r2_pct,prompt_model,0
+GPT-4o Mini,v5,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v5,r2_pct,prompt_model,0
+Grok 4.1 Fast,v5,r2_pct,prompt_model,1
+Llama 4 Maverick,v5,r2_pct,prompt_model,0
+Mistral Large 2512,v5,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v5,r2_pct,prompt_model,0
+DeepSeek v3.2,v6,r2_pct,prompt_model,0
+GPT-4o Mini,v6,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v6,r2_pct,prompt_model,0
+Grok 4.1 Fast,v6,r2_pct,prompt_model,1
+Llama 4 Maverick,v6,r2_pct,prompt_model,0
+Mistral Large 2512,v6,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v6,r2_pct,prompt_model,0
+DeepSeek v3.2,v7,r2_pct,prompt_model,0
+GPT-4o Mini,v7,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v7,r2_pct,prompt_model,0
+Grok 4.1 Fast,v7,r2_pct,prompt_model,1
+Llama 4 Maverick,v7,r2_pct,prompt_model,0
+Mistral Large 2512,v7,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v7,r2_pct,prompt_model,0
+DeepSeek v3.2,v8,r2_pct,prompt_model,0
+GPT-4o Mini,v8,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v8,r2_pct,prompt_model,0
+Grok 4.1 Fast,v8,r2_pct,prompt_model,1
+Llama 4 Maverick,v8,r2_pct,prompt_model,0
+Mistral Large 2512,v8,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v8,r2_pct,prompt_model,0
+DeepSeek v3.2,v9,r2_pct,prompt_model,0
+GPT-4o Mini,v9,r2_pct,prompt_model,0
+Gemini 2.5 Flash,v9,r2_pct,prompt_model,0
+Grok 4.1 Fast,v9,r2_pct,prompt_model,1
+Llama 4 Maverick,v9,r2_pct,prompt_model,0
+Mistral Large 2512,v9,r2_pct,prompt_model,0
+Qwen 3.5 Flash,v9,r2_pct,prompt_model,0

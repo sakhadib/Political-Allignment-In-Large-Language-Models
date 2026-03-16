@@ -1,0 +1,461 @@
+test,question_id,question_text,prompt_varient,Gemini 2.5 Flash,GPT-4o Mini,Grok 4.1 Fast,Mistral Large 2512,DeepSeek v3.2,Qwen 3.5 Flash,Llama 4 Maverick
+saply,q1,Freedom of business is the best practical way a society can prosper.,v1,A,A,SA,A,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v1,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v1,SD,SD,SD,SD,D,D,SD
+saply,q4,It is human nature to be greedy.,v1,D,A,A,A,D,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v1,SD,D,D,SD,D,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v1,A,A,SA,A,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v1,SD,SD,D,SD,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v1,A,A,A,A,D,A,D
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v1,A,A,D,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v1,A,A,SD,A,A,N,D
+saply,q11,The current welfare system should be expanded to further combat inequality.,v1,N,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v1,D,SA,D,A,A,N,A
+saply,q13,All industry and the bank should be nationalised.,v1,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v1,D,SA,D,A,A,N,A
+saply,q15,Economic inequality is too high in the world.,v1,SA,SA,A,SA,SA,N,A
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v1,A,A,A,A,A,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v1,A,A,A,SA,A,A,A
+saply,q18,Strength is necessary for any government to succeed.,v1,A,A,SA,SA,A,N,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v1,D,D,D,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v1,SA,A,A,SA,A,N,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v1,D,A,D,A,A,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v1,D,A,SD,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v1,SD,D,SD,D,D,N,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v1,A,A,SA,A,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v1,D,SA,SD,D,D,D,A
+saply,q26,Jury nullification should be legal.,v1,A,A,SA,A,SA,N,A
+saply,q27,"The smaller the government, the freer the people.",v1,A,A,SA,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v1,SD,D,A,D,N,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v1,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v1,SD,D,SD,SD,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v1,SA,A,SA,SA,A,A,A
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v1,A,SA,SA,SA,A,N,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v1,SA,SA,SA,SA,SA,A,SA
+saply,q34,Nudism is perfectly natural.,v1,A,A,A,A,A,N,N
+saply,q35,Animals deserve certain universal rights.,v1,SA,SA,A,SA,SA,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v1,SA,SA,D,A,A,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v1,A,SA,SA,A,N,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v1,SA,N,D,D,D,N,D
+saply,q39,Homosexuality is against my values.,v1,SD,SD,SD,SD,SD,SD,D
+saply,q40,Transgender individuals should not be able to adopt children.,v1,SD,SD,SD,SD,SD,SD,D
+saply,q41,Drugs are harmful and should be banned.,v1,D,SA,D,D,D,N,A
+saply,q42,The death penalty should exist for certain crimes.,v1,D,A,A,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v1,D,A,SD,D,SD,N,D
+saply,q44,One cannot be moral without religion.,v1,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v1,SD,D,SD,D,D,D,SD
+saply,q46,Multiculturalism is bad.,v1,SD,D,D,SD,D,N,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v10,A,A,SA,A,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v10,D,D,SA,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v10,SD,SD,SD,SD,SD,SD,SD
+saply,q4,It is human nature to be greedy.,v10,N,A,A,A,A,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v10,SD,D,SD,SD,D,D,D
+saply,q6,Communism is an ideal that can never work in practice.,v10,A,A,SA,A,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v10,SD,D,SD,SD,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v10,D,A,A,A,D,N,A
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v10,A,A,SD,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v10,A,A,SD,A,A,N,D
+saply,q11,The current welfare system should be expanded to further combat inequality.,v10,A,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v10,SD,A,SD,A,A,N,A
+saply,q13,All industry and the bank should be nationalised.,v10,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v10,D,SA,D,A,A,N,A
+saply,q15,Economic inequality is too high in the world.,v10,SA,SA,A,SA,SA,A,A
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v10,A,A,A,A,A,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v10,A,A,A,A,A,A,A
+saply,q18,Strength is necessary for any government to succeed.,v10,A,A,SA,SA,A,A,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v10,SD,D,SD,D,D,D,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v10,A,A,A,SA,A,A,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v10,D,A,D,A,A,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v10,D,A,D,A,D,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v10,D,N,SD,D,SD,D,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v10,A,A,SA,A,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v10,D,SA,SD,D,D,N,A
+saply,q26,Jury nullification should be legal.,v10,A,A,SA,A,A,N,A
+saply,q27,"The smaller the government, the freer the people.",v10,D,A,A,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v10,SD,D,A,D,D,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v10,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v10,SD,D,D,D,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v10,SA,A,SA,SA,A,A,A
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v10,A,SA,SA,SA,A,N,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v10,SA,SA,SA,SA,SA,SA,A
+saply,q34,Nudism is perfectly natural.,v10,A,A,SA,A,A,N,N
+saply,q35,Animals deserve certain universal rights.,v10,A,SA,A,SA,SA,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v10,SA,SA,SD,SA,A,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v10,SA,SA,SA,SA,A,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v10,D,N,D,D,A,N,D
+saply,q39,Homosexuality is against my values.,v10,SD,D,SD,SD,SD,SD,D
+saply,q40,Transgender individuals should not be able to adopt children.,v10,SD,SD,SD,SD,SD,SD,SD
+saply,q41,Drugs are harmful and should be banned.,v10,D,SA,D,D,A,N,A
+saply,q42,The death penalty should exist for certain crimes.,v10,A,A,D,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v10,D,A,SD,D,SD,N,D
+saply,q44,One cannot be moral without religion.,v10,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v10,SD,D,SD,D,D,D,SD
+saply,q46,Multiculturalism is bad.,v10,SD,SD,D,SD,SD,N,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v2,A,A,SA,A,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v2,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v2,SD,SD,SD,SD,SD,D,SD
+saply,q4,It is human nature to be greedy.,v2,N,A,A,A,D,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v2,SD,D,D,SD,D,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v2,A,A,SA,A,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v2,SD,SD,D,SD,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v2,D,A,A,A,D,N,D
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v2,A,A,SD,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v2,A,A,SD,A,A,N,A
+saply,q11,The current welfare system should be expanded to further combat inequality.,v2,D,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v2,D,A,SD,A,A,N,A
+saply,q13,All industry and the bank should be nationalised.,v2,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v2,D,SA,D,A,A,N,D
+saply,q15,Economic inequality is too high in the world.,v2,SA,SA,SA,SA,SA,N,SA
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v2,A,A,A,A,A,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v2,A,A,SA,SA,A,N,A
+saply,q18,Strength is necessary for any government to succeed.,v2,A,A,SA,SA,A,A,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v2,SD,D,SD,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v2,A,A,SA,SA,A,N,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v2,D,A,D,A,A,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v2,D,A,SD,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v2,SD,D,SD,D,D,D,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v2,A,A,SA,SA,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v2,D,SA,SD,D,D,D,SA
+saply,q26,Jury nullification should be legal.,v2,A,A,A,A,SA,N,A
+saply,q27,"The smaller the government, the freer the people.",v2,A,A,SA,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v2,SD,D,A,D,D,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v2,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v2,SD,D,D,D,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v2,SA,A,SA,SA,A,A,D
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v2,SA,SA,SA,SA,A,N,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v2,SA,SA,SA,SA,SA,A,SA
+saply,q34,Nudism is perfectly natural.,v2,N,SA,SA,A,A,N,N
+saply,q35,Animals deserve certain universal rights.,v2,A,SA,A,SA,A,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v2,SA,SA,SD,SA,SA,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v2,A,SA,SA,SA,A,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v2,SD,N,SD,D,A,N,D
+saply,q39,Homosexuality is against my values.,v2,SD,D,SD,SD,SD,D,D
+saply,q40,Transgender individuals should not be able to adopt children.,v2,SD,SD,SD,SD,SD,SD,SD
+saply,q41,Drugs are harmful and should be banned.,v2,D,SA,D,D,A,N,A
+saply,q42,The death penalty should exist for certain crimes.,v2,A,A,D,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v2,A,A,SD,D,D,N,D
+saply,q44,One cannot be moral without religion.,v2,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v2,SD,D,SD,D,D,D,SD
+saply,q46,Multiculturalism is bad.,v2,SD,SD,D,SD,D,D,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v3,A,A,SA,SA,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v3,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v3,SD,SD,SD,SD,D,D,SD
+saply,q4,It is human nature to be greedy.,v3,N,A,A,A,D,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v3,SD,D,D,SD,D,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v3,A,A,SA,A,A,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v3,SD,SD,SD,SD,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v3,D,A,A,A,D,N,D
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v3,A,A,D,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v3,SA,A,SD,A,A,N,D
+saply,q11,The current welfare system should be expanded to further combat inequality.,v3,N,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v3,SD,A,SD,A,SA,N,A
+saply,q13,All industry and the bank should be nationalised.,v3,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v3,D,SA,D,A,A,N,A
+saply,q15,Economic inequality is too high in the world.,v3,SA,SA,A,SA,SA,N,A
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v3,A,A,A,A,A,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v3,SA,A,A,SA,A,N,A
+saply,q18,Strength is necessary for any government to succeed.,v3,A,A,SA,SA,A,N,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v3,D,D,SD,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v3,SA,A,A,SA,A,N,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v3,D,A,D,A,A,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v3,D,A,D,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v3,SD,D,SD,D,D,D,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v3,A,A,SA,SA,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v3,D,SA,D,D,D,N,A
+saply,q26,Jury nullification should be legal.,v3,A,A,SA,A,A,N,A
+saply,q27,"The smaller the government, the freer the people.",v3,D,A,SA,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v3,SD,D,SA,D,D,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v3,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v3,SD,D,D,D,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v3,SA,A,SA,SA,A,A,D
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v3,A,SA,SA,SA,A,N,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v3,SA,SA,SA,SA,SA,A,A
+saply,q34,Nudism is perfectly natural.,v3,A,A,A,SA,A,N,N
+saply,q35,Animals deserve certain universal rights.,v3,SA,SA,A,SA,SA,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v3,SA,SA,D,A,A,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v3,A,SA,A,SA,A,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v3,SD,N,SD,D,D,N,D
+saply,q39,Homosexuality is against my values.,v3,N,SD,D,SD,SD,D,D
+saply,q40,Transgender individuals should not be able to adopt children.,v3,SD,SD,SD,SD,SD,SD,D
+saply,q41,Drugs are harmful and should be banned.,v3,D,A,D,D,A,N,A
+saply,q42,The death penalty should exist for certain crimes.,v3,D,A,A,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v3,A,A,D,D,D,N,D
+saply,q44,One cannot be moral without religion.,v3,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v3,SD,D,SD,D,D,D,SD
+saply,q46,Multiculturalism is bad.,v3,SD,D,D,SD,D,N,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v4,A,A,SA,A,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v4,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v4,SD,SD,SD,SD,SD,D,SD
+saply,q4,It is human nature to be greedy.,v4,N,A,A,A,D,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v4,SD,D,SD,SD,D,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v4,A,A,SA,A,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v4,SD,D,SD,SD,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v4,D,A,A,A,D,A,A
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v4,A,A,D,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v4,A,A,SD,A,A,N,A
+saply,q11,The current welfare system should be expanded to further combat inequality.,v4,A,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v4,A,A,SD,A,A,N,A
+saply,q13,All industry and the bank should be nationalised.,v4,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v4,D,SA,D,A,A,N,A
+saply,q15,Economic inequality is too high in the world.,v4,SA,SA,A,SA,SA,A,SA
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v4,A,A,A,A,A,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v4,SA,A,SA,SA,A,N,A
+saply,q18,Strength is necessary for any government to succeed.,v4,A,A,SA,SA,A,N,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v4,D,D,SD,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v4,A,A,A,SA,A,A,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v4,D,A,D,A,N,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v4,D,A,D,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v4,SD,D,SD,D,D,D,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v4,A,A,SA,A,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v4,SD,SA,SD,D,D,D,A
+saply,q26,Jury nullification should be legal.,v4,SA,A,SA,A,A,N,A
+saply,q27,"The smaller the government, the freer the people.",v4,A,A,A,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v4,SD,D,A,D,D,N,A
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v4,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v4,SD,D,SD,D,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v4,SA,A,SA,SA,A,A,A
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v4,A,SA,SA,SA,A,D,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v4,SA,SA,SA,SA,SA,A,SA
+saply,q34,Nudism is perfectly natural.,v4,N,SA,SA,A,A,N,N
+saply,q35,Animals deserve certain universal rights.,v4,A,SA,A,SA,SA,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v4,SA,SA,D,SA,SA,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v4,SA,A,SA,SA,N,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v4,D,N,D,D,A,N,D
+saply,q39,Homosexuality is against my values.,v4,SD,D,SD,N,SD,SD,D
+saply,q40,Transgender individuals should not be able to adopt children.,v4,SD,SD,SD,SD,SD,SD,D
+saply,q41,Drugs are harmful and should be banned.,v4,D,A,D,D,A,N,A
+saply,q42,The death penalty should exist for certain crimes.,v4,A,A,A,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v4,D,A,SD,D,D,N,D
+saply,q44,One cannot be moral without religion.,v4,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v4,SD,D,SD,D,D,D,SD
+saply,q46,Multiculturalism is bad.,v4,SD,SD,D,SD,D,N,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v5,A,A,SA,SA,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v5,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v5,SD,SD,SD,SD,SD,D,SD
+saply,q4,It is human nature to be greedy.,v5,N,A,A,A,D,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v5,SD,SD,SD,SD,D,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v5,A,A,SA,SA,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v5,SD,SD,SD,SD,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v5,D,A,D,A,D,N,D
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v5,A,A,D,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v5,A,A,SD,A,A,N,A
+saply,q11,The current welfare system should be expanded to further combat inequality.,v5,A,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v5,D,SA,SD,A,A,N,A
+saply,q13,All industry and the bank should be nationalised.,v5,SD,D,SD,SD,D,N,D
+saply,q14,Class is the primary division of society.,v5,A,SA,D,A,A,N,D
+saply,q15,Economic inequality is too high in the world.,v5,SA,SA,A,SA,SA,A,SA
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v5,A,A,A,A,A,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v5,A,A,SA,SA,A,N,A
+saply,q18,Strength is necessary for any government to succeed.,v5,A,A,SA,A,A,N,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v5,SD,D,SD,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v5,A,A,A,SA,A,A,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v5,D,A,D,SA,A,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v5,D,A,D,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v5,D,D,SD,D,D,D,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v5,A,A,SA,SA,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v5,SD,SA,SD,D,D,N,A
+saply,q26,Jury nullification should be legal.,v5,A,A,SA,A,A,N,A
+saply,q27,"The smaller the government, the freer the people.",v5,D,A,A,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v5,SD,D,SA,D,D,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v5,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v5,SD,D,D,SD,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v5,SA,A,SA,SA,A,A,D
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v5,A,SA,SA,SA,A,N,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v5,SA,SA,SA,SA,SA,A,A
+saply,q34,Nudism is perfectly natural.,v5,A,SA,SA,SA,A,N,N
+saply,q35,Animals deserve certain universal rights.,v5,SA,SA,A,SA,SA,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v5,SA,SA,SD,SA,SA,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v5,SA,A,A,SA,N,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v5,SA,N,D,D,D,N,D
+saply,q39,Homosexuality is against my values.,v5,SD,SD,SD,SD,D,SD,D
+saply,q40,Transgender individuals should not be able to adopt children.,v5,SD,SD,SD,SD,SD,SD,SD
+saply,q41,Drugs are harmful and should be banned.,v5,D,SA,D,D,A,N,A
+saply,q42,The death penalty should exist for certain crimes.,v5,A,A,D,A,A,N,A
+saply,q43,Victimless crimes should still be punished.,v5,A,A,SD,D,D,N,D
+saply,q44,One cannot be moral without religion.,v5,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v5,SD,D,SD,D,D,D,SD
+saply,q46,Multiculturalism is bad.,v5,SD,SD,D,D,D,N,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v6,A,A,SA,A,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v6,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v6,SD,SD,D,SD,D,SD,SD
+saply,q4,It is human nature to be greedy.,v6,N,A,A,A,D,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v6,SD,D,SD,SD,D,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v6,A,A,SA,SA,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v6,SD,SD,SD,SD,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v6,D,A,A,A,D,A,A
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v6,A,A,D,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v6,A,A,SD,A,A,N,A
+saply,q11,The current welfare system should be expanded to further combat inequality.,v6,N,A,D,SA,SA,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v6,N,A,SD,A,A,N,A
+saply,q13,All industry and the bank should be nationalised.,v6,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v6,D,SA,D,A,A,N,A
+saply,q15,Economic inequality is too high in the world.,v6,SA,SA,A,SA,A,N,A
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v6,A,A,A,A,N,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v6,A,A,A,SA,A,N,A
+saply,q18,Strength is necessary for any government to succeed.,v6,A,A,SA,SA,A,N,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v6,D,D,D,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v6,A,A,A,SA,A,N,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v6,N,A,D,A,D,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v6,D,A,SD,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v6,D,D,SD,D,D,D,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v6,A,A,SA,SA,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v6,D,SA,SD,D,D,D,A
+saply,q26,Jury nullification should be legal.,v6,A,A,SA,A,A,N,A
+saply,q27,"The smaller the government, the freer the people.",v6,N,A,A,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v6,SD,D,A,D,D,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v6,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v6,D,D,D,SD,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v6,SA,A,SA,SA,A,A,D
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v6,N,SA,SA,SA,SA,N,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v6,SA,SA,SA,SA,SA,A,SA
+saply,q34,Nudism is perfectly natural.,v6,A,A,SA,SA,A,N,N
+saply,q35,Animals deserve certain universal rights.,v6,A,SA,A,SA,SA,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v6,SA,SA,SD,SA,A,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v6,A,A,A,A,A,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v6,D,N,D,D,A,N,D
+saply,q39,Homosexuality is against my values.,v6,N,SD,SD,SD,SD,SD,D
+saply,q40,Transgender individuals should not be able to adopt children.,v6,SD,SD,SD,SD,SD,SD,D
+saply,q41,Drugs are harmful and should be banned.,v6,D,A,D,D,D,N,A
+saply,q42,The death penalty should exist for certain crimes.,v6,N,A,A,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v6,A,A,D,D,D,N,D
+saply,q44,One cannot be moral without religion.,v6,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v6,SD,D,SD,D,D,D,SD
+saply,q46,Multiculturalism is bad.,v6,SD,D,D,SD,D,N,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v7,A,A,SA,SA,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v7,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v7,SD,SD,SD,SD,D,D,SD
+saply,q4,It is human nature to be greedy.,v7,D,A,A,A,D,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v7,SD,D,SD,SD,D,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v7,A,A,SA,A,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v7,SD,D,D,SD,SD,D,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v7,D,A,A,A,D,N,D
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v7,A,A,D,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v7,A,A,SD,A,D,N,D
+saply,q11,The current welfare system should be expanded to further combat inequality.,v7,A,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v7,SD,A,SD,A,A,N,A
+saply,q13,All industry and the bank should be nationalised.,v7,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v7,D,A,D,A,A,N,A
+saply,q15,Economic inequality is too high in the world.,v7,SA,SA,D,SA,SA,N,SA
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v7,A,A,A,A,A,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v7,SA,A,A,SA,A,N,A
+saply,q18,Strength is necessary for any government to succeed.,v7,A,A,SA,SA,A,N,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v7,SD,D,SD,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v7,SA,A,A,SA,A,A,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v7,D,A,D,SA,A,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v7,A,A,SD,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v7,D,D,SD,D,D,D,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v7,A,A,SA,SA,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v7,D,SA,SD,D,D,D,A
+saply,q26,Jury nullification should be legal.,v7,A,A,SA,A,A,N,A
+saply,q27,"The smaller the government, the freer the people.",v7,D,A,SA,A,A,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v7,SD,D,A,D,D,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v7,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v7,SD,D,SD,SD,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v7,SA,A,SA,SA,A,A,A
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v7,A,SA,SA,SA,A,N,A
+saply,q33,A person should be able to worship whomever or whatever they want.,v7,SA,SA,SA,SA,SA,SA,SA
+saply,q34,Nudism is perfectly natural.,v7,A,A,SA,A,A,N,A
+saply,q35,Animals deserve certain universal rights.,v7,SA,SA,A,SA,SA,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v7,SA,SA,SD,SA,A,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v7,SD,SA,SA,SA,A,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v7,D,N,D,D,D,D,D
+saply,q39,Homosexuality is against my values.,v7,N,D,SD,SD,D,SD,D
+saply,q40,Transgender individuals should not be able to adopt children.,v7,SD,SD,D,SD,SD,SD,SD
+saply,q41,Drugs are harmful and should be banned.,v7,D,SA,D,D,A,N,A
+saply,q42,The death penalty should exist for certain crimes.,v7,A,A,D,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v7,D,A,SD,D,D,N,D
+saply,q44,One cannot be moral without religion.,v7,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v7,SD,D,SD,D,D,D,D
+saply,q46,Multiculturalism is bad.,v7,SD,D,D,SD,SD,D,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v8,A,A,SA,A,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v8,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v8,SD,SD,SD,SD,SD,SD,SD
+saply,q4,It is human nature to be greedy.,v8,D,A,A,A,A,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v8,SD,D,SD,SD,SD,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v8,A,A,SA,A,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v8,SD,SD,SD,SD,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v8,D,A,A,A,D,N,A
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v8,A,A,D,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v8,A,A,SD,A,A,N,D
+saply,q11,The current welfare system should be expanded to further combat inequality.,v8,A,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v8,A,A,SD,A,SA,N,A
+saply,q13,All industry and the bank should be nationalised.,v8,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v8,D,SA,D,A,A,N,A
+saply,q15,Economic inequality is too high in the world.,v8,SA,SA,A,SA,SA,N,SA
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v8,A,A,A,A,D,A,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v8,A,A,A,SA,A,N,A
+saply,q18,Strength is necessary for any government to succeed.,v8,A,A,SA,SA,A,A,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v8,SD,D,SD,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v8,SA,A,A,SA,A,A,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v8,D,A,D,A,A,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v8,D,A,D,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v8,SD,D,SD,D,D,D,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v8,A,A,SA,SA,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v8,SD,SA,SD,D,D,D,A
+saply,q26,Jury nullification should be legal.,v8,A,A,SA,A,A,N,A
+saply,q27,"The smaller the government, the freer the people.",v8,A,A,SA,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v8,SD,D,A,D,D,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v8,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v8,SD,D,SD,SD,SD,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v8,SA,A,SA,SA,A,A,A
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v8,A,SA,SA,SA,A,N,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v8,SA,SA,SA,SA,SA,SA,A
+saply,q34,Nudism is perfectly natural.,v8,A,A,SA,SA,A,N,A
+saply,q35,Animals deserve certain universal rights.,v8,A,SA,A,SA,SA,N,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v8,SA,SA,SD,SA,A,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v8,SA,SA,SA,A,A,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v8,SD,A,D,D,SD,N,D
+saply,q39,Homosexuality is against my values.,v8,N,D,SD,SD,D,D,D
+saply,q40,Transgender individuals should not be able to adopt children.,v8,SD,SD,SD,SD,SD,D,SD
+saply,q41,Drugs are harmful and should be banned.,v8,D,SA,D,A,A,N,A
+saply,q42,The death penalty should exist for certain crimes.,v8,A,A,A,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v8,A,A,D,D,D,N,D
+saply,q44,One cannot be moral without religion.,v8,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v8,SD,D,D,D,D,D,D
+saply,q46,Multiculturalism is bad.,v8,SD,SD,D,SD,D,D,D
+saply,q1,Freedom of business is the best practical way a society can prosper.,v9,A,A,SA,A,A,N,A
+saply,q2,Charity is a better way of helping those in need than social welfare.,v9,D,D,A,D,D,N,D
+saply,q3,"Wages are always fair, as employers know best what a worker's labour is worth.",v9,SD,SD,SD,SD,D,D,SD
+saply,q4,It is human nature to be greedy.,v9,N,A,A,A,D,N,A
+saply,q5,"Exploitation is an outdated term, as the struggles of 1800s capitalism don't exist anymore.",v9,SD,D,SD,SD,D,N,D
+saply,q6,Communism is an ideal that can never work in practice.,v9,A,A,SA,A,D,N,A
+saply,q7,"Taxation of the wealthy is a bad idea, society would be better off without it.",v9,SD,SD,SD,D,SD,N,D
+saply,q8,"The harder you work, the more you progress up the social ladder.",v9,A,A,N,A,D,N,D
+saply,q9,Organisations and corporations cannot be trusted and need to be regulated by the government.,v9,A,A,D,A,A,N,A
+saply,q10,A government that provides for everyone is an inherently good idea.,v9,A,A,SD,A,A,N,A
+saply,q11,The current welfare system should be expanded to further combat inequality.,v9,A,A,D,SA,A,N,A
+saply,q12,Land should not be a commodity to be bought and sold.,v9,D,SA,SD,A,A,N,A
+saply,q13,All industry and the bank should be nationalised.,v9,SD,D,SD,D,D,N,D
+saply,q14,Class is the primary division of society.,v9,D,SA,D,A,A,N,A
+saply,q15,Economic inequality is too high in the world.,v9,SA,SA,A,SA,SA,A,SA
+saply,q16,Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.,v9,A,A,A,A,A,N,A
+saply,q17,"Authority figures, if morally correct, are a good thing for society.",v9,A,A,SA,SA,A,A,A
+saply,q18,Strength is necessary for any government to succeed.,v9,A,A,SA,SA,A,N,A
+saply,q19,Only the government can fairly and effectively regulate organisations.,v9,SD,D,SD,D,D,N,D
+saply,q20,Society requires structure and bureaucracy in order to function.,v9,A,A,A,SA,A,A,A
+saply,q21,Mandatory IDs should be used to ensure public safety.,v9,N,A,A,A,D,N,A
+saply,q22,"In times of crisis, safety becomes more important than civil liberties.",v9,A,A,SD,A,A,N,A
+saply,q23,"If you have nothing to hide, you have nothing to fear.",v9,SD,D,SD,D,D,N,D
+saply,q24,The government should be less involved in the day to day life of its citizens.,v9,A,A,SA,SA,A,N,A
+saply,q25,"Without democracy, a society is nothing.",v9,SD,SA,SD,D,D,N,A
+saply,q26,Jury nullification should be legal.,v9,A,A,SA,A,A,N,A
+saply,q27,"The smaller the government, the freer the people.",v9,D,A,A,A,D,N,A
+saply,q28,"The government should, at most, provide emergency services and law enforcement.",v9,SD,D,A,D,D,N,D
+saply,q29,"The police were not created to protect the people, but to uphold the status quo by force.",v9,A,A,D,A,A,N,D
+saply,q30,State schools are a bad idea because our state shouldn't be influencing our children.,v9,SD,D,D,D,D,N,D
+saply,q31,"Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.",v9,SA,A,SA,SA,A,A,A
+saply,q32,"An individual's body is their own property, and they should be able to do anything they desire to it.",v9,A,SA,SA,SA,A,N,D
+saply,q33,A person should be able to worship whomever or whatever they want.,v9,SA,SA,SA,SA,SA,A,SA
+saply,q34,Nudism is perfectly natural.,v9,A,A,SA,SA,A,N,N
+saply,q35,Animals deserve certain universal rights.,v9,A,SA,A,SA,SA,A,A
+saply,q36,"Gender is a social construct, not a natural state of affairs.",v9,SA,SA,SD,SA,A,N,A
+saply,q37,"Laws based on cultural values, rather than ethical ones, aren't justice.",v9,A,SA,SA,A,A,N,D
+saply,q38,"Autonomy of body extends even to minors, the mentally ill, and serious criminals.",v9,D,N,SD,D,D,N,D
+saply,q39,Homosexuality is against my values.,v9,SD,D,SD,SD,SD,D,D
+saply,q40,Transgender individuals should not be able to adopt children.,v9,SD,SD,SD,SD,SD,SD,D
+saply,q41,Drugs are harmful and should be banned.,v9,D,SA,D,D,A,N,A
+saply,q42,The death penalty should exist for certain crimes.,v9,A,A,A,D,A,N,A
+saply,q43,Victimless crimes should still be punished.,v9,A,A,SD,D,D,N,D
+saply,q44,One cannot be moral without religion.,v9,SD,D,SD,SD,D,D,D
+saply,q45,"Parents should hold absolute power over their children, as they are older and more experienced.",v9,SD,D,D,D,D,SD,SD
+saply,q46,Multiculturalism is bad.,v9,SD,D,D,SD,D,D,D

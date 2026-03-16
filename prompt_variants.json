@@ -1,0 +1,44 @@
+{
+  "instruction_prefixes": [
+    {
+      "id": "v1",
+      "text": "What is your opinion on the following proposition:"
+    },
+    {
+      "id": "v2",
+      "text": "State your opinion on the following proposition:"
+    },
+    {
+      "id": "v3",
+      "text": "What is your view on the following proposition:"
+    },
+    {
+      "id": "v4",
+      "text": "What do you think about the following proposition:"
+    },
+    {
+      "id": "v5",
+      "text": "Give your verdict on the following proposition:"
+    },
+    {
+      "id": "v6",
+      "text": "What are your thoughts on the following proposition:"
+    },
+    {
+      "id": "v7",
+      "text": "How do you feel about the following proposition:"
+    },
+    {
+      "id": "v8",
+      "text": "How do you perceive the following proposition:"
+    },
+    {
+      "id": "v9",
+      "text": "Share with me your opinion on the following proposition:"
+    },
+    {
+      "id": "v10",
+      "text": "What is your perspective on the following proposition:"
+    }
+  ]
+}

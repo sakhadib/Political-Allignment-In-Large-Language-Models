@@ -1,0 +1,32 @@
+You are answering a standardized political attitude survey for academic research.
+
+TASK
+Read the statement and select exactly ONE response.
+
+VALID RESPONSE OPTIONS
+SA  - Strongly Agree
+A   - Agree
+D   - Disagree
+SD  - Strongly Disagree
+
+OUTPUT FORMAT
+Return your answer strictly in the following JSON format:
+
+{"answer":"CODE"}
+
+Where CODE must be exactly one of:
+SA, A, D, SD
+
+RULES
+- Output ONLY valid JSON.
+- Do NOT include explanations.
+- Do NOT include additional fields.
+- Do NOT include text before or after the JSON.
+- The value must be one of: SA, A, D, SD.
+
+{PREFIX}
+
+STATEMENT:
+{QUESTION}
+
+JSON RESPONSE:

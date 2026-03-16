@@ -1,0 +1,26 @@
+[
+  {
+    "responder": "meta_meta-llama-3-8b-instruct[0]",
+    "right_score": -3.0,
+    "auth_score": 0.33,
+    "prog_score": 2.19
+  },
+  {
+    "responder": "meta_meta-llama-3-8b[0]",
+    "right_score": -2.0,
+    "auth_score": 0.33,
+    "prog_score": 0.0
+  },
+  {
+    "responder": "meta_meta-llama-3-70b-instruct[0]",
+    "right_score": -1.67,
+    "auth_score": 1.33,
+    "prog_score": 2.81
+  },
+  {
+    "responder": "meta_meta-llama-3-70b[0]",
+    "right_score": 2.33,
+    "auth_score": 0.67,
+    "prog_score": -3.12
+  }
+]

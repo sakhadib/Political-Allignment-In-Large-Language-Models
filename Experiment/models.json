@@ -1,0 +1,37 @@
+[
+    {
+        "id" : "google/gemini-2.5-flash",
+        "name" : "Gemini 2.5 Flash",
+        "description" : "Gemini 2.5 Flash is a large language model developed by Google. It is designed to provide fast and efficient performance for a wide range of natural language processing tasks. The model is trained on a diverse dataset and is capable of understanding and generating human-like text."
+    },
+    {
+        "id" : "openai/gpt-4o-mini-2024-07-18",
+        "name" : "GPT-4o Mini",
+        "description" : "GPT-4o Mini is a compact version of OpenAI's GPT-4o model. It is optimized for performance and efficiency, making it suitable for applications that require quick responses and lower computational resources. Despite its smaller size, GPT-4o Mini retains much of the language understanding and generation capabilities of its larger counterpart."
+    },
+    {
+        "id" : "x-ai/grok-4.1-fast",
+        "name" : "Grok 4.1 Fast",
+        "description" : "Grok 4.1 Fast is a language model developed by X-AI, designed for high-speed processing and efficient performance. It is trained on a vast corpus of text data and is capable of handling a variety of natural language tasks, including text generation, summarization, and question-answering. The model's architecture is optimized for speed, making it ideal for applications that require real-time responses."
+    },
+    {
+        "id" : "mistralai/mistral-large-2512",
+        "name" : "Mistral Large 2512",
+        "description" : "Mistral Large 2512 is a powerful language model developed by Mistral AI. It is designed to provide high-quality text generation and understanding capabilities. The model is trained on a large and diverse dataset, allowing it to perform well on a wide range of natural language processing tasks. Mistral Large 2512 is suitable for applications that require deep language comprehension and sophisticated text generation."
+    },
+    {
+        "id" : "deepseek/deepseek-v3.2",
+        "name" : "DeepSeek v3.2",
+        "description" : "DeepSeek v3.2 is an advanced language model developed by DeepSeek. It is designed to provide high-quality text generation and understanding capabilities. The model is trained on a large and diverse dataset, allowing it to perform well on a wide range of natural language processing tasks. DeepSeek v3.2 is suitable for applications that require deep language comprehension and sophisticated text generation."
+    },
+    {
+        "id" : "qwen/qwen3.5-flash-02-23",
+        "name" : "Qwen 3.5 Flash",
+        "description" : "Qwen 3.5 Flash is a language model developed by Qwen AI, designed for fast and efficient performance. It is trained on a diverse dataset and is capable of understanding and generating human-like text. The model is optimized for speed, making it ideal for applications that require quick responses and lower computational resources."
+    },
+    {
+        "id" : "meta-llama/llama-4-maverick",
+        "name" : "Llama 4 Maverick",
+        "description" : "Llama 4 Maverick is a language model developed by Meta. It is designed for advanced natural language processing tasks, offering a balance between performance and efficiency."
+    }
+]

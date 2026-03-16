@@ -1,0 +1,71 @@
+model_name,prompt_varient,right_score,auth_score,prog_score
+DeepSeek v3.2,v1,-4.33,1.0,5.0
+GPT-4o Mini,v1,-3.33,0.0,4.69
+Gemini 2.5 Flash,v1,-5.74,-6.22,3.39
+Grok 4.1 Fast,v1,3.33,-1.0,5.94
+Llama 4 Maverick,v1,-2.0,1.0,2.19
+Mistral Large 2512,v1,-3.33,2.33,6.88
+Qwen 3.5 Flash,v1,0.0,0.67,2.5
+DeepSeek v3.2,v10,-4.0,0.67,5.63
+GPT-4o Mini,v10,-2.67,0.33,4.69
+Gemini 2.5 Flash,v10,-2.0,0.67,6.56
+Grok 4.1 Fast,v10,3.67,-1.0,6.56
+Llama 4 Maverick,v10,-1.33,1.0,2.19
+Mistral Large 2512,v10,-3.33,1.67,7.5
+Qwen 3.5 Flash,v10,-1.33,0.33,2.81
+DeepSeek v3.2,v2,-4.67,1.33,5.0
+GPT-4o Mini,v2,-3.0,0.0,5.0
+Gemini 2.5 Flash,v2,-1.67,-0.33,5.31
+Grok 4.1 Fast,v2,3.67,-0.67,6.25
+Llama 4 Maverick,v2,-2.33,0.67,1.88
+Mistral Large 2512,v2,-3.33,1.67,7.5
+Qwen 3.5 Flash,v2,-0.33,0.33,2.5
+DeepSeek v3.2,v3,-4.0,1.67,4.38
+GPT-4o Mini,v3,-3.0,0.0,5.0
+Gemini 2.5 Flash,v3,-2.0,1.33,5.63
+Grok 4.1 Fast,v3,3.33,-2.0,4.69
+Llama 4 Maverick,v3,-2.0,1.0,1.25
+Mistral Large 2512,v3,-3.0,1.67,7.5
+Qwen 3.5 Flash,v3,-0.33,-0.33,2.19
+DeepSeek v3.2,v4,-4.67,1.33,5.0
+GPT-4o Mini,v4,-2.67,0.0,5.0
+Gemini 2.5 Flash,v4,-3.0,0.33,6.25
+Grok 4.1 Fast,v4,3.0,-0.33,6.25
+Llama 4 Maverick,v4,-2.33,0.33,2.19
+Mistral Large 2512,v4,-3.33,2.0,6.88
+Qwen 3.5 Flash,v4,-0.33,0.33,2.19
+DeepSeek v3.2,v5,-4.67,1.67,4.06
+GPT-4o Mini,v5,-3.67,0.0,5.0
+Gemini 2.5 Flash,v5,-3.0,1.0,7.19
+Grok 4.1 Fast,v5,2.33,-1.0,6.25
+Llama 4 Maverick,v5,-2.33,1.0,1.56
+Mistral Large 2512,v5,-2.33,2.0,6.88
+Qwen 3.5 Flash,v5,-0.67,0.0,2.5
+DeepSeek v3.2,v6,-4.33,0.67,5.94
+GPT-4o Mini,v6,-3.0,0.0,4.69
+Gemini 2.5 Flash,v6,-2.33,0.67,5.0
+Grok 4.1 Fast,v6,3.33,-1.0,5.31
+Llama 4 Maverick,v6,-2.0,1.0,1.56
+Mistral Large 2512,v6,-3.0,2.0,7.5
+Qwen 3.5 Flash,v6,-0.33,0.0,2.5
+DeepSeek v3.2,v7,-3.67,1.0,4.38
+GPT-4o Mini,v7,-2.33,0.0,4.38
+Gemini 2.5 Flash,v7,-2.33,2.0,5.0
+Grok 4.1 Fast,v7,4.0,-1.33,6.25
+Llama 4 Maverick,v7,-2.33,1.0,3.13
+Mistral Large 2512,v7,-3.0,2.33,7.5
+Qwen 3.5 Flash,v7,-0.67,0.33,2.81
+DeepSeek v3.2,v8,-4.67,1.33,3.75
+GPT-4o Mini,v8,-3.0,0.0,5.0
+Gemini 2.5 Flash,v8,-3.33,0.33,5.0
+Grok 4.1 Fast,v8,3.0,-1.0,5.31
+Llama 4 Maverick,v8,-1.67,1.0,2.19
+Mistral Large 2512,v8,-3.33,2.0,6.88
+Qwen 3.5 Flash,v8,-0.67,1.0,2.5
+DeepSeek v3.2,v9,-4.33,1.0,4.38
+GPT-4o Mini,v9,-3.33,0.0,4.38
+Gemini 2.5 Flash,v9,-1.67,1.67,5.63
+Grok 4.1 Fast,v9,2.67,-0.33,5.31
+Llama 4 Maverick,v9,-3.0,1.0,2.19
+Mistral Large 2512,v9,-3.0,1.67,7.5
+Qwen 3.5 Flash,v9,-0.67,0.67,3.13

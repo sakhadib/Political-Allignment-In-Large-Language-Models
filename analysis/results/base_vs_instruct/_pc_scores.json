@@ -1,0 +1,22 @@
+[
+  {
+    "responder": "meta_meta-llama-3-8b-instruct[0]",
+    "econ_score": -0.99,
+    "soc_score": -1.33
+  },
+  {
+    "responder": "meta_meta-llama-3-8b[0]",
+    "econ_score": -0.62,
+    "soc_score": -4.62
+  },
+  {
+    "responder": "meta_meta-llama-3-70b-instruct[0]",
+    "econ_score": -4.24,
+    "soc_score": -2.72
+  },
+  {
+    "responder": "meta_meta-llama-3-70b[0]",
+    "econ_score": -0.49,
+    "soc_score": -4.31
+  }
+]

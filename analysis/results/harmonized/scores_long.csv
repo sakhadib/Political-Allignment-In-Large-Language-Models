@@ -1,0 +1,631 @@
+model_name,prompt_varient,score,test,axis,prompt_num,trait_proxy,method
+DeepSeek v3.2,v1,64.4,8val,dipl,1,diplomatic,8val_dipl
+GPT-4o Mini,v1,60.6,8val,dipl,1,diplomatic,8val_dipl
+Gemini 2.5 Flash,v1,56.7,8val,dipl,1,diplomatic,8val_dipl
+Grok 4.1 Fast,v1,53.3,8val,dipl,1,diplomatic,8val_dipl
+Llama 4 Maverick,v1,56.7,8val,dipl,1,diplomatic,8val_dipl
+Mistral Large 2512,v1,67.2,8val,dipl,1,diplomatic,8val_dipl
+Qwen 3.5 Flash,v1,59.4,8val,dipl,1,diplomatic,8val_dipl
+DeepSeek v3.2,v2,63.9,8val,dipl,2,diplomatic,8val_dipl
+GPT-4o Mini,v2,61.7,8val,dipl,2,diplomatic,8val_dipl
+Gemini 2.5 Flash,v2,67.2,8val,dipl,2,diplomatic,8val_dipl
+Grok 4.1 Fast,v2,49.4,8val,dipl,2,diplomatic,8val_dipl
+Llama 4 Maverick,v2,59.4,8val,dipl,2,diplomatic,8val_dipl
+Mistral Large 2512,v2,61.7,8val,dipl,2,diplomatic,8val_dipl
+Qwen 3.5 Flash,v2,60.0,8val,dipl,2,diplomatic,8val_dipl
+DeepSeek v3.2,v3,65.6,8val,dipl,3,diplomatic,8val_dipl
+GPT-4o Mini,v3,60.6,8val,dipl,3,diplomatic,8val_dipl
+Gemini 2.5 Flash,v3,65.6,8val,dipl,3,diplomatic,8val_dipl
+Grok 4.1 Fast,v3,43.9,8val,dipl,3,diplomatic,8val_dipl
+Llama 4 Maverick,v3,59.4,8val,dipl,3,diplomatic,8val_dipl
+Mistral Large 2512,v3,61.7,8val,dipl,3,diplomatic,8val_dipl
+Qwen 3.5 Flash,v3,61.7,8val,dipl,3,diplomatic,8val_dipl
+DeepSeek v3.2,v4,63.3,8val,dipl,4,diplomatic,8val_dipl
+GPT-4o Mini,v4,62.8,8val,dipl,4,diplomatic,8val_dipl
+Gemini 2.5 Flash,v4,67.2,8val,dipl,4,diplomatic,8val_dipl
+Grok 4.1 Fast,v4,45.0,8val,dipl,4,diplomatic,8val_dipl
+Llama 4 Maverick,v4,55.0,8val,dipl,4,diplomatic,8val_dipl
+Mistral Large 2512,v4,63.3,8val,dipl,4,diplomatic,8val_dipl
+Qwen 3.5 Flash,v4,58.9,8val,dipl,4,diplomatic,8val_dipl
+DeepSeek v3.2,v5,63.3,8val,dipl,5,diplomatic,8val_dipl
+GPT-4o Mini,v5,62.8,8val,dipl,5,diplomatic,8val_dipl
+Gemini 2.5 Flash,v5,60.6,8val,dipl,5,diplomatic,8val_dipl
+Grok 4.1 Fast,v5,45.6,8val,dipl,5,diplomatic,8val_dipl
+Llama 4 Maverick,v5,58.3,8val,dipl,5,diplomatic,8val_dipl
+Mistral Large 2512,v5,62.8,8val,dipl,5,diplomatic,8val_dipl
+Qwen 3.5 Flash,v5,60.0,8val,dipl,5,diplomatic,8val_dipl
+DeepSeek v3.2,v6,58.3,8val,dipl,6,diplomatic,8val_dipl
+GPT-4o Mini,v6,61.7,8val,dipl,6,diplomatic,8val_dipl
+Gemini 2.5 Flash,v6,59.4,8val,dipl,6,diplomatic,8val_dipl
+Grok 4.1 Fast,v6,47.2,8val,dipl,6,diplomatic,8val_dipl
+Llama 4 Maverick,v6,61.7,8val,dipl,6,diplomatic,8val_dipl
+Mistral Large 2512,v6,62.2,8val,dipl,6,diplomatic,8val_dipl
+Qwen 3.5 Flash,v6,58.9,8val,dipl,6,diplomatic,8val_dipl
+DeepSeek v3.2,v7,63.3,8val,dipl,7,diplomatic,8val_dipl
+GPT-4o Mini,v7,61.7,8val,dipl,7,diplomatic,8val_dipl
+Gemini 2.5 Flash,v7,66.7,8val,dipl,7,diplomatic,8val_dipl
+Grok 4.1 Fast,v7,49.4,8val,dipl,7,diplomatic,8val_dipl
+Llama 4 Maverick,v7,55.6,8val,dipl,7,diplomatic,8val_dipl
+Mistral Large 2512,v7,66.7,8val,dipl,7,diplomatic,8val_dipl
+Qwen 3.5 Flash,v7,60.0,8val,dipl,7,diplomatic,8val_dipl
+DeepSeek v3.2,v8,61.7,8val,dipl,8,diplomatic,8val_dipl
+GPT-4o Mini,v8,61.7,8val,dipl,8,diplomatic,8val_dipl
+Gemini 2.5 Flash,v8,63.3,8val,dipl,8,diplomatic,8val_dipl
+Grok 4.1 Fast,v8,51.1,8val,dipl,8,diplomatic,8val_dipl
+Llama 4 Maverick,v8,53.9,8val,dipl,8,diplomatic,8val_dipl
+Mistral Large 2512,v8,62.2,8val,dipl,8,diplomatic,8val_dipl
+Qwen 3.5 Flash,v8,59.4,8val,dipl,8,diplomatic,8val_dipl
+DeepSeek v3.2,v9,63.3,8val,dipl,9,diplomatic,8val_dipl
+GPT-4o Mini,v9,61.7,8val,dipl,9,diplomatic,8val_dipl
+Gemini 2.5 Flash,v9,64.4,8val,dipl,9,diplomatic,8val_dipl
+Grok 4.1 Fast,v9,48.9,8val,dipl,9,diplomatic,8val_dipl
+Llama 4 Maverick,v9,56.1,8val,dipl,9,diplomatic,8val_dipl
+Mistral Large 2512,v9,62.2,8val,dipl,9,diplomatic,8val_dipl
+Qwen 3.5 Flash,v9,58.9,8val,dipl,9,diplomatic,8val_dipl
+DeepSeek v3.2,v10,63.9,8val,dipl,10,diplomatic,8val_dipl
+GPT-4o Mini,v10,62.8,8val,dipl,10,diplomatic,8val_dipl
+Gemini 2.5 Flash,v10,57.8,8val,dipl,10,diplomatic,8val_dipl
+Grok 4.1 Fast,v10,46.1,8val,dipl,10,diplomatic,8val_dipl
+Llama 4 Maverick,v10,57.2,8val,dipl,10,diplomatic,8val_dipl
+Mistral Large 2512,v10,67.2,8val,dipl,10,diplomatic,8val_dipl
+Qwen 3.5 Flash,v10,61.7,8val,dipl,10,diplomatic,8val_dipl
+DeepSeek v3.2,v1,75.6,8val,econ,1,economic,8val_econ
+GPT-4o Mini,v1,73.1,8val,econ,1,economic,8val_econ
+Gemini 2.5 Flash,v1,73.1,8val,econ,1,economic,8val_econ
+Grok 4.1 Fast,v1,42.3,8val,econ,1,economic,8val_econ
+Llama 4 Maverick,v1,72.4,8val,econ,1,economic,8val_econ
+Mistral Large 2512,v1,81.4,8val,econ,1,economic,8val_econ
+Qwen 3.5 Flash,v1,57.1,8val,econ,1,economic,8val_econ
+DeepSeek v3.2,v2,78.2,8val,econ,2,economic,8val_econ
+GPT-4o Mini,v2,78.2,8val,econ,2,economic,8val_econ
+Gemini 2.5 Flash,v2,78.2,8val,econ,2,economic,8val_econ
+Grok 4.1 Fast,v2,41.7,8val,econ,2,economic,8val_econ
+Llama 4 Maverick,v2,68.6,8val,econ,2,economic,8val_econ
+Mistral Large 2512,v2,80.1,8val,econ,2,economic,8val_econ
+Qwen 3.5 Flash,v2,58.3,8val,econ,2,economic,8val_econ
+DeepSeek v3.2,v3,72.4,8val,econ,3,economic,8val_econ
+GPT-4o Mini,v3,73.1,8val,econ,3,economic,8val_econ
+Gemini 2.5 Flash,v3,75.6,8val,econ,3,economic,8val_econ
+Grok 4.1 Fast,v3,39.7,8val,econ,3,economic,8val_econ
+Llama 4 Maverick,v3,69.9,8val,econ,3,economic,8val_econ
+Mistral Large 2512,v3,82.7,8val,econ,3,economic,8val_econ
+Qwen 3.5 Flash,v3,57.1,8val,econ,3,economic,8val_econ
+DeepSeek v3.2,v4,76.9,8val,econ,4,economic,8val_econ
+GPT-4o Mini,v4,73.1,8val,econ,4,economic,8val_econ
+Gemini 2.5 Flash,v4,75.6,8val,econ,4,economic,8val_econ
+Grok 4.1 Fast,v4,38.5,8val,econ,4,economic,8val_econ
+Llama 4 Maverick,v4,68.6,8val,econ,4,economic,8val_econ
+Mistral Large 2512,v4,81.4,8val,econ,4,economic,8val_econ
+Qwen 3.5 Flash,v4,55.8,8val,econ,4,economic,8val_econ
+DeepSeek v3.2,v5,75.6,8val,econ,5,economic,8val_econ
+GPT-4o Mini,v5,74.4,8val,econ,5,economic,8val_econ
+Gemini 2.5 Flash,v5,78.2,8val,econ,5,economic,8val_econ
+Grok 4.1 Fast,v5,41.0,8val,econ,5,economic,8val_econ
+Llama 4 Maverick,v5,70.5,8val,econ,5,economic,8val_econ
+Mistral Large 2512,v5,81.4,8val,econ,5,economic,8val_econ
+Qwen 3.5 Flash,v5,57.1,8val,econ,5,economic,8val_econ
+DeepSeek v3.2,v6,73.7,8val,econ,6,economic,8val_econ
+GPT-4o Mini,v6,73.1,8val,econ,6,economic,8val_econ
+Gemini 2.5 Flash,v6,71.2,8val,econ,6,economic,8val_econ
+Grok 4.1 Fast,v6,40.4,8val,econ,6,economic,8val_econ
+Llama 4 Maverick,v6,68.6,8val,econ,6,economic,8val_econ
+Mistral Large 2512,v6,82.7,8val,econ,6,economic,8val_econ
+Qwen 3.5 Flash,v6,55.8,8val,econ,6,economic,8val_econ
+DeepSeek v3.2,v7,76.9,8val,econ,7,economic,8val_econ
+GPT-4o Mini,v7,73.1,8val,econ,7,economic,8val_econ
+Gemini 2.5 Flash,v7,76.9,8val,econ,7,economic,8val_econ
+Grok 4.1 Fast,v7,37.2,8val,econ,7,economic,8val_econ
+Llama 4 Maverick,v7,72.4,8val,econ,7,economic,8val_econ
+Mistral Large 2512,v7,81.4,8val,econ,7,economic,8val_econ
+Qwen 3.5 Flash,v7,59.6,8val,econ,7,economic,8val_econ
+DeepSeek v3.2,v8,70.5,8val,econ,8,economic,8val_econ
+GPT-4o Mini,v8,71.8,8val,econ,8,economic,8val_econ
+Gemini 2.5 Flash,v8,76.9,8val,econ,8,economic,8val_econ
+Grok 4.1 Fast,v8,41.7,8val,econ,8,economic,8val_econ
+Llama 4 Maverick,v8,68.6,8val,econ,8,economic,8val_econ
+Mistral Large 2512,v8,81.4,8val,econ,8,economic,8val_econ
+Qwen 3.5 Flash,v8,59.0,8val,econ,8,economic,8val_econ
+DeepSeek v3.2,v9,76.9,8val,econ,9,economic,8val_econ
+GPT-4o Mini,v9,79.5,8val,econ,9,economic,8val_econ
+Gemini 2.5 Flash,v9,75.6,8val,econ,9,economic,8val_econ
+Grok 4.1 Fast,v9,44.2,8val,econ,9,economic,8val_econ
+Llama 4 Maverick,v9,69.2,8val,econ,9,economic,8val_econ
+Mistral Large 2512,v9,80.1,8val,econ,9,economic,8val_econ
+Qwen 3.5 Flash,v9,57.7,8val,econ,9,economic,8val_econ
+DeepSeek v3.2,v10,73.7,8val,econ,10,economic,8val_econ
+GPT-4o Mini,v10,75.6,8val,econ,10,economic,8val_econ
+Gemini 2.5 Flash,v10,76.9,8val,econ,10,economic,8val_econ
+Grok 4.1 Fast,v10,40.4,8val,econ,10,economic,8val_econ
+Llama 4 Maverick,v10,69.9,8val,econ,10,economic,8val_econ
+Mistral Large 2512,v10,80.8,8val,econ,10,economic,8val_econ
+Qwen 3.5 Flash,v10,55.8,8val,econ,10,economic,8val_econ
+DeepSeek v3.2,v1,63.7,8val,govt,1,authority_proxy,8val_govt
+GPT-4o Mini,v1,53.1,8val,govt,1,authority_proxy,8val_govt
+Gemini 2.5 Flash,v1,60.9,8val,govt,1,authority_proxy,8val_govt
+Grok 4.1 Fast,v1,65.2,8val,govt,1,authority_proxy,8val_govt
+Llama 4 Maverick,v1,48.8,8val,govt,1,authority_proxy,8val_govt
+Mistral Large 2512,v1,58.6,8val,govt,1,authority_proxy,8val_govt
+Qwen 3.5 Flash,v1,53.9,8val,govt,1,authority_proxy,8val_govt
+DeepSeek v3.2,v2,59.0,8val,govt,2,authority_proxy,8val_govt
+GPT-4o Mini,v2,53.5,8val,govt,2,authority_proxy,8val_govt
+Gemini 2.5 Flash,v2,66.0,8val,govt,2,authority_proxy,8val_govt
+Grok 4.1 Fast,v2,65.6,8val,govt,2,authority_proxy,8val_govt
+Llama 4 Maverick,v2,55.1,8val,govt,2,authority_proxy,8val_govt
+Mistral Large 2512,v2,57.8,8val,govt,2,authority_proxy,8val_govt
+Qwen 3.5 Flash,v2,54.7,8val,govt,2,authority_proxy,8val_govt
+DeepSeek v3.2,v3,62.9,8val,govt,3,authority_proxy,8val_govt
+GPT-4o Mini,v3,53.9,8val,govt,3,authority_proxy,8val_govt
+Gemini 2.5 Flash,v3,64.5,8val,govt,3,authority_proxy,8val_govt
+Grok 4.1 Fast,v3,63.7,8val,govt,3,authority_proxy,8val_govt
+Llama 4 Maverick,v3,52.0,8val,govt,3,authority_proxy,8val_govt
+Mistral Large 2512,v3,59.0,8val,govt,3,authority_proxy,8val_govt
+Qwen 3.5 Flash,v3,54.3,8val,govt,3,authority_proxy,8val_govt
+DeepSeek v3.2,v4,62.9,8val,govt,4,authority_proxy,8val_govt
+GPT-4o Mini,v4,54.3,8val,govt,4,authority_proxy,8val_govt
+Gemini 2.5 Flash,v4,64.1,8val,govt,4,authority_proxy,8val_govt
+Grok 4.1 Fast,v4,61.3,8val,govt,4,authority_proxy,8val_govt
+Llama 4 Maverick,v4,50.0,8val,govt,4,authority_proxy,8val_govt
+Mistral Large 2512,v4,57.8,8val,govt,4,authority_proxy,8val_govt
+Qwen 3.5 Flash,v4,54.7,8val,govt,4,authority_proxy,8val_govt
+DeepSeek v3.2,v5,60.5,8val,govt,5,authority_proxy,8val_govt
+GPT-4o Mini,v5,52.7,8val,govt,5,authority_proxy,8val_govt
+Gemini 2.5 Flash,v5,58.6,8val,govt,5,authority_proxy,8val_govt
+Grok 4.1 Fast,v5,64.1,8val,govt,5,authority_proxy,8val_govt
+Llama 4 Maverick,v5,54.7,8val,govt,5,authority_proxy,8val_govt
+Mistral Large 2512,v5,57.4,8val,govt,5,authority_proxy,8val_govt
+Qwen 3.5 Flash,v5,53.5,8val,govt,5,authority_proxy,8val_govt
+DeepSeek v3.2,v6,62.1,8val,govt,6,authority_proxy,8val_govt
+GPT-4o Mini,v6,53.5,8val,govt,6,authority_proxy,8val_govt
+Gemini 2.5 Flash,v6,59.0,8val,govt,6,authority_proxy,8val_govt
+Grok 4.1 Fast,v6,64.1,8val,govt,6,authority_proxy,8val_govt
+Llama 4 Maverick,v6,55.1,8val,govt,6,authority_proxy,8val_govt
+Mistral Large 2512,v6,57.0,8val,govt,6,authority_proxy,8val_govt
+Qwen 3.5 Flash,v6,53.9,8val,govt,6,authority_proxy,8val_govt
+DeepSeek v3.2,v7,61.3,8val,govt,7,authority_proxy,8val_govt
+GPT-4o Mini,v7,53.5,8val,govt,7,authority_proxy,8val_govt
+Gemini 2.5 Flash,v7,57.8,8val,govt,7,authority_proxy,8val_govt
+Grok 4.1 Fast,v7,62.1,8val,govt,7,authority_proxy,8val_govt
+Llama 4 Maverick,v7,50.8,8val,govt,7,authority_proxy,8val_govt
+Mistral Large 2512,v7,58.6,8val,govt,7,authority_proxy,8val_govt
+Qwen 3.5 Flash,v7,54.7,8val,govt,7,authority_proxy,8val_govt
+DeepSeek v3.2,v8,61.3,8val,govt,8,authority_proxy,8val_govt
+GPT-4o Mini,v8,52.7,8val,govt,8,authority_proxy,8val_govt
+Gemini 2.5 Flash,v8,59.8,8val,govt,8,authority_proxy,8val_govt
+Grok 4.1 Fast,v8,62.1,8val,govt,8,authority_proxy,8val_govt
+Llama 4 Maverick,v8,50.0,8val,govt,8,authority_proxy,8val_govt
+Mistral Large 2512,v8,56.3,8val,govt,8,authority_proxy,8val_govt
+Qwen 3.5 Flash,v8,55.1,8val,govt,8,authority_proxy,8val_govt
+DeepSeek v3.2,v9,61.7,8val,govt,9,authority_proxy,8val_govt
+GPT-4o Mini,v9,54.3,8val,govt,9,authority_proxy,8val_govt
+Gemini 2.5 Flash,v9,62.1,8val,govt,9,authority_proxy,8val_govt
+Grok 4.1 Fast,v9,62.1,8val,govt,9,authority_proxy,8val_govt
+Llama 4 Maverick,v9,51.6,8val,govt,9,authority_proxy,8val_govt
+Mistral Large 2512,v9,55.9,8val,govt,9,authority_proxy,8val_govt
+Qwen 3.5 Flash,v9,53.5,8val,govt,9,authority_proxy,8val_govt
+DeepSeek v3.2,v10,59.8,8val,govt,10,authority_proxy,8val_govt
+GPT-4o Mini,v10,52.7,8val,govt,10,authority_proxy,8val_govt
+Gemini 2.5 Flash,v10,62.9,8val,govt,10,authority_proxy,8val_govt
+Grok 4.1 Fast,v10,64.1,8val,govt,10,authority_proxy,8val_govt
+Llama 4 Maverick,v10,52.0,8val,govt,10,authority_proxy,8val_govt
+Mistral Large 2512,v10,57.8,8val,govt,10,authority_proxy,8val_govt
+Qwen 3.5 Flash,v10,53.9,8val,govt,10,authority_proxy,8val_govt
+DeepSeek v3.2,v1,70.7,8val,scty,1,progressive_proxy,8val_scty
+GPT-4o Mini,v1,65.2,8val,scty,1,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v1,67.3,8val,scty,1,progressive_proxy,8val_scty
+Grok 4.1 Fast,v1,68.6,8val,scty,1,progressive_proxy,8val_scty
+Llama 4 Maverick,v1,58.8,8val,scty,1,progressive_proxy,8val_scty
+Mistral Large 2512,v1,69.0,8val,scty,1,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v1,59.4,8val,scty,1,progressive_proxy,8val_scty
+DeepSeek v3.2,v2,70.3,8val,scty,2,progressive_proxy,8val_scty
+GPT-4o Mini,v2,66.4,8val,scty,2,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v2,72.0,8val,scty,2,progressive_proxy,8val_scty
+Grok 4.1 Fast,v2,70.5,8val,scty,2,progressive_proxy,8val_scty
+Llama 4 Maverick,v2,57.1,8val,scty,2,progressive_proxy,8val_scty
+Mistral Large 2512,v2,67.7,8val,scty,2,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v2,60.3,8val,scty,2,progressive_proxy,8val_scty
+DeepSeek v3.2,v3,69.9,8val,scty,3,progressive_proxy,8val_scty
+GPT-4o Mini,v3,66.9,8val,scty,3,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v3,67.3,8val,scty,3,progressive_proxy,8val_scty
+Grok 4.1 Fast,v3,68.8,8val,scty,3,progressive_proxy,8val_scty
+Llama 4 Maverick,v3,60.5,8val,scty,3,progressive_proxy,8val_scty
+Mistral Large 2512,v3,69.0,8val,scty,3,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v3,59.4,8val,scty,3,progressive_proxy,8val_scty
+DeepSeek v3.2,v4,69.4,8val,scty,4,progressive_proxy,8val_scty
+GPT-4o Mini,v4,67.7,8val,scty,4,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v4,70.3,8val,scty,4,progressive_proxy,8val_scty
+Grok 4.1 Fast,v4,66.4,8val,scty,4,progressive_proxy,8val_scty
+Llama 4 Maverick,v4,55.4,8val,scty,4,progressive_proxy,8val_scty
+Mistral Large 2512,v4,68.2,8val,scty,4,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v4,59.4,8val,scty,4,progressive_proxy,8val_scty
+DeepSeek v3.2,v5,68.6,8val,scty,5,progressive_proxy,8val_scty
+GPT-4o Mini,v5,66.9,8val,scty,5,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v5,66.4,8val,scty,5,progressive_proxy,8val_scty
+Grok 4.1 Fast,v5,67.3,8val,scty,5,progressive_proxy,8val_scty
+Llama 4 Maverick,v5,59.7,8val,scty,5,progressive_proxy,8val_scty
+Mistral Large 2512,v5,68.2,8val,scty,5,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v5,57.3,8val,scty,5,progressive_proxy,8val_scty
+DeepSeek v3.2,v6,71.1,8val,scty,6,progressive_proxy,8val_scty
+GPT-4o Mini,v6,66.0,8val,scty,6,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v6,65.4,8val,scty,6,progressive_proxy,8val_scty
+Grok 4.1 Fast,v6,66.6,8val,scty,6,progressive_proxy,8val_scty
+Llama 4 Maverick,v6,57.1,8val,scty,6,progressive_proxy,8val_scty
+Mistral Large 2512,v6,69.0,8val,scty,6,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v6,59.4,8val,scty,6,progressive_proxy,8val_scty
+DeepSeek v3.2,v7,70.3,8val,scty,7,progressive_proxy,8val_scty
+GPT-4o Mini,v7,66.0,8val,scty,7,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v7,69.9,8val,scty,7,progressive_proxy,8val_scty
+Grok 4.1 Fast,v7,66.2,8val,scty,7,progressive_proxy,8val_scty
+Llama 4 Maverick,v7,58.8,8val,scty,7,progressive_proxy,8val_scty
+Mistral Large 2512,v7,68.2,8val,scty,7,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v7,58.6,8val,scty,7,progressive_proxy,8val_scty
+DeepSeek v3.2,v8,68.6,8val,scty,8,progressive_proxy,8val_scty
+GPT-4o Mini,v8,65.6,8val,scty,8,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v8,67.3,8val,scty,8,progressive_proxy,8val_scty
+Grok 4.1 Fast,v8,65.6,8val,scty,8,progressive_proxy,8val_scty
+Llama 4 Maverick,v8,57.1,8val,scty,8,progressive_proxy,8val_scty
+Mistral Large 2512,v8,66.9,8val,scty,8,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v8,59.0,8val,scty,8,progressive_proxy,8val_scty
+DeepSeek v3.2,v9,72.0,8val,scty,9,progressive_proxy,8val_scty
+GPT-4o Mini,v9,66.9,8val,scty,9,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v9,69.4,8val,scty,9,progressive_proxy,8val_scty
+Grok 4.1 Fast,v9,69.2,8val,scty,9,progressive_proxy,8val_scty
+Llama 4 Maverick,v9,58.0,8val,scty,9,progressive_proxy,8val_scty
+Mistral Large 2512,v9,68.2,8val,scty,9,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v9,58.6,8val,scty,9,progressive_proxy,8val_scty
+DeepSeek v3.2,v10,67.7,8val,scty,10,progressive_proxy,8val_scty
+GPT-4o Mini,v10,64.7,8val,scty,10,progressive_proxy,8val_scty
+Gemini 2.5 Flash,v10,66.9,8val,scty,10,progressive_proxy,8val_scty
+Grok 4.1 Fast,v10,65.6,8val,scty,10,progressive_proxy,8val_scty
+Llama 4 Maverick,v10,58.8,8val,scty,10,progressive_proxy,8val_scty
+Mistral Large 2512,v10,68.6,8val,scty,10,progressive_proxy,8val_scty
+Qwen 3.5 Flash,v10,58.1,8val,scty,10,progressive_proxy,8val_scty
+DeepSeek v3.2,v1,-5.87,pct,econ,1,economic,pct_econ
+GPT-4o Mini,v1,-4.62,pct,econ,1,economic,pct_econ
+Gemini 2.5 Flash,v1,-5.87,pct,econ,1,economic,pct_econ
+Grok 4.1 Fast,v1,3.01,pct,econ,1,economic,pct_econ
+Llama 4 Maverick,v1,-4.24,pct,econ,1,economic,pct_econ
+Mistral Large 2512,v1,-5.74,pct,econ,1,economic,pct_econ
+Qwen 3.5 Flash,v1,-3.24,pct,econ,1,economic,pct_econ
+DeepSeek v3.2,v2,-5.87,pct,econ,2,economic,pct_econ
+GPT-4o Mini,v2,-4.99,pct,econ,2,economic,pct_econ
+Gemini 2.5 Flash,v2,-5.87,pct,econ,2,economic,pct_econ
+Grok 4.1 Fast,v2,0.88,pct,econ,2,economic,pct_econ
+Llama 4 Maverick,v2,-4.49,pct,econ,2,economic,pct_econ
+Mistral Large 2512,v2,-5.49,pct,econ,2,economic,pct_econ
+Qwen 3.5 Flash,v2,-4.24,pct,econ,2,economic,pct_econ
+DeepSeek v3.2,v3,-5.62,pct,econ,3,economic,pct_econ
+GPT-4o Mini,v3,-4.62,pct,econ,3,economic,pct_econ
+Gemini 2.5 Flash,v3,-6.62,pct,econ,3,economic,pct_econ
+Grok 4.1 Fast,v3,3.51,pct,econ,3,economic,pct_econ
+Llama 4 Maverick,v3,-3.74,pct,econ,3,economic,pct_econ
+Mistral Large 2512,v3,-5.74,pct,econ,3,economic,pct_econ
+Qwen 3.5 Flash,v3,-3.99,pct,econ,3,economic,pct_econ
+DeepSeek v3.2,v4,-5.62,pct,econ,4,economic,pct_econ
+GPT-4o Mini,v4,-4.99,pct,econ,4,economic,pct_econ
+Gemini 2.5 Flash,v4,-6.12,pct,econ,4,economic,pct_econ
+Grok 4.1 Fast,v4,2.38,pct,econ,4,economic,pct_econ
+Llama 4 Maverick,v4,-3.49,pct,econ,4,economic,pct_econ
+Mistral Large 2512,v4,-5.74,pct,econ,4,economic,pct_econ
+Qwen 3.5 Flash,v4,-2.62,pct,econ,4,economic,pct_econ
+DeepSeek v3.2,v5,-5.62,pct,econ,5,economic,pct_econ
+GPT-4o Mini,v5,-4.99,pct,econ,5,economic,pct_econ
+Gemini 2.5 Flash,v5,-5.74,pct,econ,5,economic,pct_econ
+Grok 4.1 Fast,v5,3.13,pct,econ,5,economic,pct_econ
+Llama 4 Maverick,v5,-4.12,pct,econ,5,economic,pct_econ
+Mistral Large 2512,v5,-6.24,pct,econ,5,economic,pct_econ
+Qwen 3.5 Flash,v5,-3.24,pct,econ,5,economic,pct_econ
+DeepSeek v3.2,v6,-4.74,pct,econ,6,economic,pct_econ
+GPT-4o Mini,v6,-4.74,pct,econ,6,economic,pct_econ
+Gemini 2.5 Flash,v6,-6.74,pct,econ,6,economic,pct_econ
+Grok 4.1 Fast,v6,2.88,pct,econ,6,economic,pct_econ
+Llama 4 Maverick,v6,-3.49,pct,econ,6,economic,pct_econ
+Mistral Large 2512,v6,-5.74,pct,econ,6,economic,pct_econ
+Qwen 3.5 Flash,v6,-3.37,pct,econ,6,economic,pct_econ
+DeepSeek v3.2,v7,-5.62,pct,econ,7,economic,pct_econ
+GPT-4o Mini,v7,-4.99,pct,econ,7,economic,pct_econ
+Gemini 2.5 Flash,v7,-5.74,pct,econ,7,economic,pct_econ
+Grok 4.1 Fast,v7,4.13,pct,econ,7,economic,pct_econ
+Llama 4 Maverick,v7,-4.49,pct,econ,7,economic,pct_econ
+Mistral Large 2512,v7,-5.74,pct,econ,7,economic,pct_econ
+Qwen 3.5 Flash,v7,-4.62,pct,econ,7,economic,pct_econ
+DeepSeek v3.2,v8,-5.87,pct,econ,8,economic,pct_econ
+GPT-4o Mini,v8,-4.99,pct,econ,8,economic,pct_econ
+Gemini 2.5 Flash,v8,-7.49,pct,econ,8,economic,pct_econ
+Grok 4.1 Fast,v8,2.63,pct,econ,8,economic,pct_econ
+Llama 4 Maverick,v8,-3.49,pct,econ,8,economic,pct_econ
+Mistral Large 2512,v8,-5.74,pct,econ,8,economic,pct_econ
+Qwen 3.5 Flash,v8,-4.62,pct,econ,8,economic,pct_econ
+DeepSeek v3.2,v9,-5.87,pct,econ,9,economic,pct_econ
+GPT-4o Mini,v9,-4.99,pct,econ,9,economic,pct_econ
+Gemini 2.5 Flash,v9,-6.87,pct,econ,9,economic,pct_econ
+Grok 4.1 Fast,v9,3.26,pct,econ,9,economic,pct_econ
+Llama 4 Maverick,v9,-4.12,pct,econ,9,economic,pct_econ
+Mistral Large 2512,v9,-5.99,pct,econ,9,economic,pct_econ
+Qwen 3.5 Flash,v9,-3.37,pct,econ,9,economic,pct_econ
+DeepSeek v3.2,v10,-5.62,pct,econ,10,economic,pct_econ
+GPT-4o Mini,v10,-4.87,pct,econ,10,economic,pct_econ
+Gemini 2.5 Flash,v10,-5.99,pct,econ,10,economic,pct_econ
+Grok 4.1 Fast,v10,4.51,pct,econ,10,economic,pct_econ
+Llama 4 Maverick,v10,-4.24,pct,econ,10,economic,pct_econ
+Mistral Large 2512,v10,-5.24,pct,econ,10,economic,pct_econ
+Qwen 3.5 Flash,v10,-3.37,pct,econ,10,economic,pct_econ
+DeepSeek v3.2,v1,-5.49,pct,soc,1,authority_proxy,pct_soc
+GPT-4o Mini,v1,-3.49,pct,soc,1,authority_proxy,pct_soc
+Gemini 2.5 Flash,v1,-6.62,pct,soc,1,authority_proxy,pct_soc
+Grok 4.1 Fast,v1,-5.59,pct,soc,1,authority_proxy,pct_soc
+Llama 4 Maverick,v1,-3.38,pct,soc,1,authority_proxy,pct_soc
+Mistral Large 2512,v1,-6.15,pct,soc,1,authority_proxy,pct_soc
+Qwen 3.5 Flash,v1,-4.21,pct,soc,1,authority_proxy,pct_soc
+DeepSeek v3.2,v2,-5.59,pct,soc,2,authority_proxy,pct_soc
+GPT-4o Mini,v2,-3.64,pct,soc,2,authority_proxy,pct_soc
+Gemini 2.5 Flash,v2,-6.0,pct,soc,2,authority_proxy,pct_soc
+Grok 4.1 Fast,v2,-6.26,pct,soc,2,authority_proxy,pct_soc
+Llama 4 Maverick,v2,-3.33,pct,soc,2,authority_proxy,pct_soc
+Mistral Large 2512,v2,-6.05,pct,soc,2,authority_proxy,pct_soc
+Qwen 3.5 Flash,v2,-4.31,pct,soc,2,authority_proxy,pct_soc
+DeepSeek v3.2,v3,-5.28,pct,soc,3,authority_proxy,pct_soc
+GPT-4o Mini,v3,-3.49,pct,soc,3,authority_proxy,pct_soc
+Gemini 2.5 Flash,v3,-6.05,pct,soc,3,authority_proxy,pct_soc
+Grok 4.1 Fast,v3,-5.59,pct,soc,3,authority_proxy,pct_soc
+Llama 4 Maverick,v3,-3.38,pct,soc,3,authority_proxy,pct_soc
+Mistral Large 2512,v3,-6.36,pct,soc,3,authority_proxy,pct_soc
+Qwen 3.5 Flash,v3,-4.97,pct,soc,3,authority_proxy,pct_soc
+DeepSeek v3.2,v4,-4.62,pct,soc,4,authority_proxy,pct_soc
+GPT-4o Mini,v4,-3.44,pct,soc,4,authority_proxy,pct_soc
+Gemini 2.5 Flash,v4,-6.41,pct,soc,4,authority_proxy,pct_soc
+Grok 4.1 Fast,v4,-5.9,pct,soc,4,authority_proxy,pct_soc
+Llama 4 Maverick,v4,-3.44,pct,soc,4,authority_proxy,pct_soc
+Mistral Large 2512,v4,-6.0,pct,soc,4,authority_proxy,pct_soc
+Qwen 3.5 Flash,v4,-4.21,pct,soc,4,authority_proxy,pct_soc
+DeepSeek v3.2,v5,-5.18,pct,soc,5,authority_proxy,pct_soc
+GPT-4o Mini,v5,-3.18,pct,soc,5,authority_proxy,pct_soc
+Gemini 2.5 Flash,v5,-6.51,pct,soc,5,authority_proxy,pct_soc
+Grok 4.1 Fast,v5,-5.59,pct,soc,5,authority_proxy,pct_soc
+Llama 4 Maverick,v5,-3.18,pct,soc,5,authority_proxy,pct_soc
+Mistral Large 2512,v5,-5.9,pct,soc,5,authority_proxy,pct_soc
+Qwen 3.5 Flash,v5,-4.0,pct,soc,5,authority_proxy,pct_soc
+DeepSeek v3.2,v6,-5.54,pct,soc,6,authority_proxy,pct_soc
+GPT-4o Mini,v6,-3.49,pct,soc,6,authority_proxy,pct_soc
+Gemini 2.5 Flash,v6,-6.05,pct,soc,6,authority_proxy,pct_soc
+Grok 4.1 Fast,v6,-5.18,pct,soc,6,authority_proxy,pct_soc
+Llama 4 Maverick,v6,-3.23,pct,soc,6,authority_proxy,pct_soc
+Mistral Large 2512,v6,-6.41,pct,soc,6,authority_proxy,pct_soc
+Qwen 3.5 Flash,v6,-4.41,pct,soc,6,authority_proxy,pct_soc
+DeepSeek v3.2,v7,-5.23,pct,soc,7,authority_proxy,pct_soc
+GPT-4o Mini,v7,-3.64,pct,soc,7,authority_proxy,pct_soc
+Gemini 2.5 Flash,v7,-6.41,pct,soc,7,authority_proxy,pct_soc
+Grok 4.1 Fast,v7,-5.8,pct,soc,7,authority_proxy,pct_soc
+Llama 4 Maverick,v7,-3.69,pct,soc,7,authority_proxy,pct_soc
+Mistral Large 2512,v7,-6.0,pct,soc,7,authority_proxy,pct_soc
+Qwen 3.5 Flash,v7,-4.62,pct,soc,7,authority_proxy,pct_soc
+DeepSeek v3.2,v8,-4.56,pct,soc,8,authority_proxy,pct_soc
+GPT-4o Mini,v8,-3.59,pct,soc,8,authority_proxy,pct_soc
+Gemini 2.5 Flash,v8,-6.51,pct,soc,8,authority_proxy,pct_soc
+Grok 4.1 Fast,v8,-5.13,pct,soc,8,authority_proxy,pct_soc
+Llama 4 Maverick,v8,-3.44,pct,soc,8,authority_proxy,pct_soc
+Mistral Large 2512,v8,-5.9,pct,soc,8,authority_proxy,pct_soc
+Qwen 3.5 Flash,v8,-3.85,pct,soc,8,authority_proxy,pct_soc
+DeepSeek v3.2,v9,-5.23,pct,soc,9,authority_proxy,pct_soc
+GPT-4o Mini,v9,-3.33,pct,soc,9,authority_proxy,pct_soc
+Gemini 2.5 Flash,v9,-6.41,pct,soc,9,authority_proxy,pct_soc
+Grok 4.1 Fast,v9,-5.23,pct,soc,9,authority_proxy,pct_soc
+Llama 4 Maverick,v9,-3.33,pct,soc,9,authority_proxy,pct_soc
+Mistral Large 2512,v9,-6.21,pct,soc,9,authority_proxy,pct_soc
+Qwen 3.5 Flash,v9,-4.56,pct,soc,9,authority_proxy,pct_soc
+DeepSeek v3.2,v10,-5.08,pct,soc,10,authority_proxy,pct_soc
+GPT-4o Mini,v10,-3.33,pct,soc,10,authority_proxy,pct_soc
+Gemini 2.5 Flash,v10,-6.41,pct,soc,10,authority_proxy,pct_soc
+Grok 4.1 Fast,v10,-5.74,pct,soc,10,authority_proxy,pct_soc
+Llama 4 Maverick,v10,-3.85,pct,soc,10,authority_proxy,pct_soc
+Mistral Large 2512,v10,-5.9,pct,soc,10,authority_proxy,pct_soc
+Qwen 3.5 Flash,v10,-4.77,pct,soc,10,authority_proxy,pct_soc
+DeepSeek v3.2,v1,1.0,sap,auth,1,authority_proxy,sap_auth
+GPT-4o Mini,v1,0.0,sap,auth,1,authority_proxy,sap_auth
+Gemini 2.5 Flash,v1,-6.22,sap,auth,1,authority_proxy,sap_auth
+Grok 4.1 Fast,v1,-1.0,sap,auth,1,authority_proxy,sap_auth
+Llama 4 Maverick,v1,1.0,sap,auth,1,authority_proxy,sap_auth
+Mistral Large 2512,v1,2.33,sap,auth,1,authority_proxy,sap_auth
+Qwen 3.5 Flash,v1,0.67,sap,auth,1,authority_proxy,sap_auth
+DeepSeek v3.2,v2,1.33,sap,auth,2,authority_proxy,sap_auth
+GPT-4o Mini,v2,0.0,sap,auth,2,authority_proxy,sap_auth
+Gemini 2.5 Flash,v2,-0.33,sap,auth,2,authority_proxy,sap_auth
+Grok 4.1 Fast,v2,-0.67,sap,auth,2,authority_proxy,sap_auth
+Llama 4 Maverick,v2,0.67,sap,auth,2,authority_proxy,sap_auth
+Mistral Large 2512,v2,1.67,sap,auth,2,authority_proxy,sap_auth
+Qwen 3.5 Flash,v2,0.33,sap,auth,2,authority_proxy,sap_auth
+DeepSeek v3.2,v3,1.67,sap,auth,3,authority_proxy,sap_auth
+GPT-4o Mini,v3,0.0,sap,auth,3,authority_proxy,sap_auth
+Gemini 2.5 Flash,v3,1.33,sap,auth,3,authority_proxy,sap_auth
+Grok 4.1 Fast,v3,-2.0,sap,auth,3,authority_proxy,sap_auth
+Llama 4 Maverick,v3,1.0,sap,auth,3,authority_proxy,sap_auth
+Mistral Large 2512,v3,1.67,sap,auth,3,authority_proxy,sap_auth
+Qwen 3.5 Flash,v3,-0.33,sap,auth,3,authority_proxy,sap_auth
+DeepSeek v3.2,v4,1.33,sap,auth,4,authority_proxy,sap_auth
+GPT-4o Mini,v4,0.0,sap,auth,4,authority_proxy,sap_auth
+Gemini 2.5 Flash,v4,0.33,sap,auth,4,authority_proxy,sap_auth
+Grok 4.1 Fast,v4,-0.33,sap,auth,4,authority_proxy,sap_auth
+Llama 4 Maverick,v4,0.33,sap,auth,4,authority_proxy,sap_auth
+Mistral Large 2512,v4,2.0,sap,auth,4,authority_proxy,sap_auth
+Qwen 3.5 Flash,v4,0.33,sap,auth,4,authority_proxy,sap_auth
+DeepSeek v3.2,v5,1.67,sap,auth,5,authority_proxy,sap_auth
+GPT-4o Mini,v5,0.0,sap,auth,5,authority_proxy,sap_auth
+Gemini 2.5 Flash,v5,1.0,sap,auth,5,authority_proxy,sap_auth
+Grok 4.1 Fast,v5,-1.0,sap,auth,5,authority_proxy,sap_auth
+Llama 4 Maverick,v5,1.0,sap,auth,5,authority_proxy,sap_auth
+Mistral Large 2512,v5,2.0,sap,auth,5,authority_proxy,sap_auth
+Qwen 3.5 Flash,v5,0.0,sap,auth,5,authority_proxy,sap_auth
+DeepSeek v3.2,v6,0.67,sap,auth,6,authority_proxy,sap_auth
+GPT-4o Mini,v6,0.0,sap,auth,6,authority_proxy,sap_auth
+Gemini 2.5 Flash,v6,0.67,sap,auth,6,authority_proxy,sap_auth
+Grok 4.1 Fast,v6,-1.0,sap,auth,6,authority_proxy,sap_auth
+Llama 4 Maverick,v6,1.0,sap,auth,6,authority_proxy,sap_auth
+Mistral Large 2512,v6,2.0,sap,auth,6,authority_proxy,sap_auth
+Qwen 3.5 Flash,v6,0.0,sap,auth,6,authority_proxy,sap_auth
+DeepSeek v3.2,v7,1.0,sap,auth,7,authority_proxy,sap_auth
+GPT-4o Mini,v7,0.0,sap,auth,7,authority_proxy,sap_auth
+Gemini 2.5 Flash,v7,2.0,sap,auth,7,authority_proxy,sap_auth
+Grok 4.1 Fast,v7,-1.33,sap,auth,7,authority_proxy,sap_auth
+Llama 4 Maverick,v7,1.0,sap,auth,7,authority_proxy,sap_auth
+Mistral Large 2512,v7,2.33,sap,auth,7,authority_proxy,sap_auth
+Qwen 3.5 Flash,v7,0.33,sap,auth,7,authority_proxy,sap_auth
+DeepSeek v3.2,v8,1.33,sap,auth,8,authority_proxy,sap_auth
+GPT-4o Mini,v8,0.0,sap,auth,8,authority_proxy,sap_auth
+Gemini 2.5 Flash,v8,0.33,sap,auth,8,authority_proxy,sap_auth
+Grok 4.1 Fast,v8,-1.0,sap,auth,8,authority_proxy,sap_auth
+Llama 4 Maverick,v8,1.0,sap,auth,8,authority_proxy,sap_auth
+Mistral Large 2512,v8,2.0,sap,auth,8,authority_proxy,sap_auth
+Qwen 3.5 Flash,v8,1.0,sap,auth,8,authority_proxy,sap_auth
+DeepSeek v3.2,v9,1.0,sap,auth,9,authority_proxy,sap_auth
+GPT-4o Mini,v9,0.0,sap,auth,9,authority_proxy,sap_auth
+Gemini 2.5 Flash,v9,1.67,sap,auth,9,authority_proxy,sap_auth
+Grok 4.1 Fast,v9,-0.33,sap,auth,9,authority_proxy,sap_auth
+Llama 4 Maverick,v9,1.0,sap,auth,9,authority_proxy,sap_auth
+Mistral Large 2512,v9,1.67,sap,auth,9,authority_proxy,sap_auth
+Qwen 3.5 Flash,v9,0.67,sap,auth,9,authority_proxy,sap_auth
+DeepSeek v3.2,v10,0.67,sap,auth,10,authority_proxy,sap_auth
+GPT-4o Mini,v10,0.33,sap,auth,10,authority_proxy,sap_auth
+Gemini 2.5 Flash,v10,0.67,sap,auth,10,authority_proxy,sap_auth
+Grok 4.1 Fast,v10,-1.0,sap,auth,10,authority_proxy,sap_auth
+Llama 4 Maverick,v10,1.0,sap,auth,10,authority_proxy,sap_auth
+Mistral Large 2512,v10,1.67,sap,auth,10,authority_proxy,sap_auth
+Qwen 3.5 Flash,v10,0.33,sap,auth,10,authority_proxy,sap_auth
+DeepSeek v3.2,v1,5.0,sap,prog,1,progressive_proxy,sap_prog
+GPT-4o Mini,v1,4.69,sap,prog,1,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v1,3.39,sap,prog,1,progressive_proxy,sap_prog
+Grok 4.1 Fast,v1,5.94,sap,prog,1,progressive_proxy,sap_prog
+Llama 4 Maverick,v1,2.19,sap,prog,1,progressive_proxy,sap_prog
+Mistral Large 2512,v1,6.88,sap,prog,1,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v1,2.5,sap,prog,1,progressive_proxy,sap_prog
+DeepSeek v3.2,v2,5.0,sap,prog,2,progressive_proxy,sap_prog
+GPT-4o Mini,v2,5.0,sap,prog,2,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v2,5.31,sap,prog,2,progressive_proxy,sap_prog
+Grok 4.1 Fast,v2,6.25,sap,prog,2,progressive_proxy,sap_prog
+Llama 4 Maverick,v2,1.88,sap,prog,2,progressive_proxy,sap_prog
+Mistral Large 2512,v2,7.5,sap,prog,2,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v2,2.5,sap,prog,2,progressive_proxy,sap_prog
+DeepSeek v3.2,v3,4.38,sap,prog,3,progressive_proxy,sap_prog
+GPT-4o Mini,v3,5.0,sap,prog,3,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v3,5.63,sap,prog,3,progressive_proxy,sap_prog
+Grok 4.1 Fast,v3,4.69,sap,prog,3,progressive_proxy,sap_prog
+Llama 4 Maverick,v3,1.25,sap,prog,3,progressive_proxy,sap_prog
+Mistral Large 2512,v3,7.5,sap,prog,3,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v3,2.19,sap,prog,3,progressive_proxy,sap_prog
+DeepSeek v3.2,v4,5.0,sap,prog,4,progressive_proxy,sap_prog
+GPT-4o Mini,v4,5.0,sap,prog,4,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v4,6.25,sap,prog,4,progressive_proxy,sap_prog
+Grok 4.1 Fast,v4,6.25,sap,prog,4,progressive_proxy,sap_prog
+Llama 4 Maverick,v4,2.19,sap,prog,4,progressive_proxy,sap_prog
+Mistral Large 2512,v4,6.88,sap,prog,4,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v4,2.19,sap,prog,4,progressive_proxy,sap_prog
+DeepSeek v3.2,v5,4.06,sap,prog,5,progressive_proxy,sap_prog
+GPT-4o Mini,v5,5.0,sap,prog,5,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v5,7.19,sap,prog,5,progressive_proxy,sap_prog
+Grok 4.1 Fast,v5,6.25,sap,prog,5,progressive_proxy,sap_prog
+Llama 4 Maverick,v5,1.56,sap,prog,5,progressive_proxy,sap_prog
+Mistral Large 2512,v5,6.88,sap,prog,5,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v5,2.5,sap,prog,5,progressive_proxy,sap_prog
+DeepSeek v3.2,v6,5.94,sap,prog,6,progressive_proxy,sap_prog
+GPT-4o Mini,v6,4.69,sap,prog,6,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v6,5.0,sap,prog,6,progressive_proxy,sap_prog
+Grok 4.1 Fast,v6,5.31,sap,prog,6,progressive_proxy,sap_prog
+Llama 4 Maverick,v6,1.56,sap,prog,6,progressive_proxy,sap_prog
+Mistral Large 2512,v6,7.5,sap,prog,6,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v6,2.5,sap,prog,6,progressive_proxy,sap_prog
+DeepSeek v3.2,v7,4.38,sap,prog,7,progressive_proxy,sap_prog
+GPT-4o Mini,v7,4.38,sap,prog,7,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v7,5.0,sap,prog,7,progressive_proxy,sap_prog
+Grok 4.1 Fast,v7,6.25,sap,prog,7,progressive_proxy,sap_prog
+Llama 4 Maverick,v7,3.13,sap,prog,7,progressive_proxy,sap_prog
+Mistral Large 2512,v7,7.5,sap,prog,7,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v7,2.81,sap,prog,7,progressive_proxy,sap_prog
+DeepSeek v3.2,v8,3.75,sap,prog,8,progressive_proxy,sap_prog
+GPT-4o Mini,v8,5.0,sap,prog,8,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v8,5.0,sap,prog,8,progressive_proxy,sap_prog
+Grok 4.1 Fast,v8,5.31,sap,prog,8,progressive_proxy,sap_prog
+Llama 4 Maverick,v8,2.19,sap,prog,8,progressive_proxy,sap_prog
+Mistral Large 2512,v8,6.88,sap,prog,8,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v8,2.5,sap,prog,8,progressive_proxy,sap_prog
+DeepSeek v3.2,v9,4.38,sap,prog,9,progressive_proxy,sap_prog
+GPT-4o Mini,v9,4.38,sap,prog,9,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v9,5.63,sap,prog,9,progressive_proxy,sap_prog
+Grok 4.1 Fast,v9,5.31,sap,prog,9,progressive_proxy,sap_prog
+Llama 4 Maverick,v9,2.19,sap,prog,9,progressive_proxy,sap_prog
+Mistral Large 2512,v9,7.5,sap,prog,9,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v9,3.13,sap,prog,9,progressive_proxy,sap_prog
+DeepSeek v3.2,v10,5.63,sap,prog,10,progressive_proxy,sap_prog
+GPT-4o Mini,v10,4.69,sap,prog,10,progressive_proxy,sap_prog
+Gemini 2.5 Flash,v10,6.56,sap,prog,10,progressive_proxy,sap_prog
+Grok 4.1 Fast,v10,6.56,sap,prog,10,progressive_proxy,sap_prog
+Llama 4 Maverick,v10,2.19,sap,prog,10,progressive_proxy,sap_prog
+Mistral Large 2512,v10,7.5,sap,prog,10,progressive_proxy,sap_prog
+Qwen 3.5 Flash,v10,2.81,sap,prog,10,progressive_proxy,sap_prog
+DeepSeek v3.2,v1,-4.33,sap,right,1,economic_inverse,sap_right
+GPT-4o Mini,v1,-3.33,sap,right,1,economic_inverse,sap_right
+Gemini 2.5 Flash,v1,-5.74,sap,right,1,economic_inverse,sap_right
+Grok 4.1 Fast,v1,3.33,sap,right,1,economic_inverse,sap_right
+Llama 4 Maverick,v1,-2.0,sap,right,1,economic_inverse,sap_right
+Mistral Large 2512,v1,-3.33,sap,right,1,economic_inverse,sap_right
+Qwen 3.5 Flash,v1,0.0,sap,right,1,economic_inverse,sap_right
+DeepSeek v3.2,v2,-4.67,sap,right,2,economic_inverse,sap_right
+GPT-4o Mini,v2,-3.0,sap,right,2,economic_inverse,sap_right
+Gemini 2.5 Flash,v2,-1.67,sap,right,2,economic_inverse,sap_right
+Grok 4.1 Fast,v2,3.67,sap,right,2,economic_inverse,sap_right
+Llama 4 Maverick,v2,-2.33,sap,right,2,economic_inverse,sap_right
+Mistral Large 2512,v2,-3.33,sap,right,2,economic_inverse,sap_right
+Qwen 3.5 Flash,v2,-0.33,sap,right,2,economic_inverse,sap_right
+DeepSeek v3.2,v3,-4.0,sap,right,3,economic_inverse,sap_right
+GPT-4o Mini,v3,-3.0,sap,right,3,economic_inverse,sap_right
+Gemini 2.5 Flash,v3,-2.0,sap,right,3,economic_inverse,sap_right
+Grok 4.1 Fast,v3,3.33,sap,right,3,economic_inverse,sap_right
+Llama 4 Maverick,v3,-2.0,sap,right,3,economic_inverse,sap_right
+Mistral Large 2512,v3,-3.0,sap,right,3,economic_inverse,sap_right
+Qwen 3.5 Flash,v3,-0.33,sap,right,3,economic_inverse,sap_right
+DeepSeek v3.2,v4,-4.67,sap,right,4,economic_inverse,sap_right
+GPT-4o Mini,v4,-2.67,sap,right,4,economic_inverse,sap_right
+Gemini 2.5 Flash,v4,-3.0,sap,right,4,economic_inverse,sap_right
+Grok 4.1 Fast,v4,3.0,sap,right,4,economic_inverse,sap_right
+Llama 4 Maverick,v4,-2.33,sap,right,4,economic_inverse,sap_right
+Mistral Large 2512,v4,-3.33,sap,right,4,economic_inverse,sap_right
+Qwen 3.5 Flash,v4,-0.33,sap,right,4,economic_inverse,sap_right
+DeepSeek v3.2,v5,-4.67,sap,right,5,economic_inverse,sap_right
+GPT-4o Mini,v5,-3.67,sap,right,5,economic_inverse,sap_right
+Gemini 2.5 Flash,v5,-3.0,sap,right,5,economic_inverse,sap_right
+Grok 4.1 Fast,v5,2.33,sap,right,5,economic_inverse,sap_right
+Llama 4 Maverick,v5,-2.33,sap,right,5,economic_inverse,sap_right
+Mistral Large 2512,v5,-2.33,sap,right,5,economic_inverse,sap_right
+Qwen 3.5 Flash,v5,-0.67,sap,right,5,economic_inverse,sap_right
+DeepSeek v3.2,v6,-4.33,sap,right,6,economic_inverse,sap_right
+GPT-4o Mini,v6,-3.0,sap,right,6,economic_inverse,sap_right
+Gemini 2.5 Flash,v6,-2.33,sap,right,6,economic_inverse,sap_right
+Grok 4.1 Fast,v6,3.33,sap,right,6,economic_inverse,sap_right
+Llama 4 Maverick,v6,-2.0,sap,right,6,economic_inverse,sap_right
+Mistral Large 2512,v6,-3.0,sap,right,6,economic_inverse,sap_right
+Qwen 3.5 Flash,v6,-0.33,sap,right,6,economic_inverse,sap_right
+DeepSeek v3.2,v7,-3.67,sap,right,7,economic_inverse,sap_right
+GPT-4o Mini,v7,-2.33,sap,right,7,economic_inverse,sap_right
+Gemini 2.5 Flash,v7,-2.33,sap,right,7,economic_inverse,sap_right
+Grok 4.1 Fast,v7,4.0,sap,right,7,economic_inverse,sap_right
+Llama 4 Maverick,v7,-2.33,sap,right,7,economic_inverse,sap_right
+Mistral Large 2512,v7,-3.0,sap,right,7,economic_inverse,sap_right
+Qwen 3.5 Flash,v7,-0.67,sap,right,7,economic_inverse,sap_right
+DeepSeek v3.2,v8,-4.67,sap,right,8,economic_inverse,sap_right
+GPT-4o Mini,v8,-3.0,sap,right,8,economic_inverse,sap_right
+Gemini 2.5 Flash,v8,-3.33,sap,right,8,economic_inverse,sap_right
+Grok 4.1 Fast,v8,3.0,sap,right,8,economic_inverse,sap_right
+Llama 4 Maverick,v8,-1.67,sap,right,8,economic_inverse,sap_right
+Mistral Large 2512,v8,-3.33,sap,right,8,economic_inverse,sap_right
+Qwen 3.5 Flash,v8,-0.67,sap,right,8,economic_inverse,sap_right
+DeepSeek v3.2,v9,-4.33,sap,right,9,economic_inverse,sap_right
+GPT-4o Mini,v9,-3.33,sap,right,9,economic_inverse,sap_right
+Gemini 2.5 Flash,v9,-1.67,sap,right,9,economic_inverse,sap_right
+Grok 4.1 Fast,v9,2.67,sap,right,9,economic_inverse,sap_right
+Llama 4 Maverick,v9,-3.0,sap,right,9,economic_inverse,sap_right
+Mistral Large 2512,v9,-3.0,sap,right,9,economic_inverse,sap_right
+Qwen 3.5 Flash,v9,-0.67,sap,right,9,economic_inverse,sap_right
+DeepSeek v3.2,v10,-4.0,sap,right,10,economic_inverse,sap_right
+GPT-4o Mini,v10,-2.67,sap,right,10,economic_inverse,sap_right
+Gemini 2.5 Flash,v10,-2.0,sap,right,10,economic_inverse,sap_right
+Grok 4.1 Fast,v10,3.67,sap,right,10,economic_inverse,sap_right
+Llama 4 Maverick,v10,-1.33,sap,right,10,economic_inverse,sap_right
+Mistral Large 2512,v10,-3.33,sap,right,10,economic_inverse,sap_right
+Qwen 3.5 Flash,v10,-1.33,sap,right,10,economic_inverse,sap_right

@@ -1,0 +1,30 @@
+[
+  {
+    "responder": "meta_meta-llama-3-8b-instruct[0]",
+    "econ_score": 62.2,
+    "dipl_score": 56.1,
+    "govt_score": 46.9,
+    "scty_score": 59.2
+  },
+  {
+    "responder": "meta_meta-llama-3-8b[0]",
+    "econ_score": 41.0,
+    "dipl_score": 56.1,
+    "govt_score": 58.2,
+    "scty_score": 42.8
+  },
+  {
+    "responder": "meta_meta-llama-3-70b-instruct[0]",
+    "econ_score": 66.0,
+    "dipl_score": 55.6,
+    "govt_score": 51.2,
+    "scty_score": 57.9
+  },
+  {
+    "responder": "meta_meta-llama-3-70b[0]",
+    "econ_score": 50.6,
+    "dipl_score": 50.6,
+    "govt_score": 56.6,
+    "scty_score": 57.8
+  }
+]

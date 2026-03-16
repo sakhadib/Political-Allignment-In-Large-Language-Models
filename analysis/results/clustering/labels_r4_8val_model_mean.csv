@@ -1,0 +1,8 @@
+model_name,prompt_varient,space,unit,cluster
+DeepSeek v3.2,mean_over_prompts,r4_8val,model_mean,0
+GPT-4o Mini,mean_over_prompts,r4_8val,model_mean,0
+Gemini 2.5 Flash,mean_over_prompts,r4_8val,model_mean,0
+Grok 4.1 Fast,mean_over_prompts,r4_8val,model_mean,1
+Llama 4 Maverick,mean_over_prompts,r4_8val,model_mean,0
+Mistral Large 2512,mean_over_prompts,r4_8val,model_mean,0
+Qwen 3.5 Flash,mean_over_prompts,r4_8val,model_mean,0
