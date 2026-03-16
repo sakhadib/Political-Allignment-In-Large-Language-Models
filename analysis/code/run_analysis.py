@@ -276,7 +276,7 @@ def run_mtmm(df: pd.DataFrame) -> pd.DataFrame:
     # Heatmap
     FIG_DIR.mkdir(parents=True, exist_ok=True)
     plt.figure(figsize=(9.5, 7.5))
-    sns.heatmap(corr, annot=True, fmt=".2f", cmap="coolwarm", center=0)
+    sns.heatmap(corr, annot=True, fmt=".2f", cmap="bwr", center=0)
     plt.title("MTMM-style Cross-Method Correlation Matrix (Pearson r)")
     plt.tight_layout()
     plt.savefig(FIG_DIR / "mtmm_heatmap.png", dpi=220)
@@ -393,11 +393,24 @@ def run_mtmm_trait_aligned() -> pd.DataFrame:
     )
     rel_summary.to_csv(out_dir / "mtmm_trait_aligned_relation_summary.csv", index=False)
 
+    # Use compact labels for publication-ready figure readability.
+    abbr = {
+        "economic_left_pct": "ECO_PCT",
+        "economic_left_8val": "ECO_8V",
+        "economic_left_sap": "ECO_SAP",
+        "authority_pct": "AUT_PCT",
+        "authority_8val": "AUT_8V",
+        "authority_sap": "AUT_SAP",
+        "progressive_8val": "PRO_8V",
+        "progressive_sap": "PRO_SAP",
+    }
+    corr_display = corr.rename(index=abbr, columns=abbr)
+
     plt.figure(figsize=(9.5, 7.5))
-    sns.heatmap(corr, annot=True, fmt=".2f", cmap="coolwarm", center=0)
-    plt.title("MTMM-style Trait-Aligned Correlation Matrix (Pearson r)")
+    sns.heatmap(corr_display, annot=True, fmt=".2f", cmap="bwr", center=0)
     plt.tight_layout()
     plt.savefig(FIG_DIR / "mtmm_trait_aligned_heatmap.png", dpi=220)
+    plt.savefig(FIG_DIR / "mtmm_trait_aligned_heatmap.pdf")
     plt.close()
 
     return aligned
